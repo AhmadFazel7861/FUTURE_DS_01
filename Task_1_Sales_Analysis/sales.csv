@@ -1,0 +1,1504 @@
+OrderID,OrderDate,ProductName,Category,Region,Quantity,Price,Revenue
+ORD000001,2023-11-24,BetaLaptop,Electronics,North,5.0,193.52,967.6
+ORD000002,2023-05-06,DeltaCharger,Accessories,South,2.0,475.85,951.7
+ORD000003,2023-12-13,IotaLamp,Home,North,10.0,368.68,3686.8
+ORD000004,2023-08-05,AlphaPhone,Electronics,North,2.0,303.34,606.68
+ORD000005,2023-04-22,DeltaCharger,Accessories,North,9.0,86.45,778.05
+ORD000006,2023-04-12,IotaLamp,Home,West,4.0,86.44,345.76
+ORD000007,2023-08-18,KappaMug,Home,East,1.0,38.46,38.46
+ORD000008,2023-03-23,ZetaNotebook,Office Supplies,East,5.0,434.43,2172.15
+ORD000009,2023-03-21,DeltaCharger,Accessories,East,2.0,304.55,609.1
+ORD000010,2023-02-17,ZetaNotebook,Office Supplies,North,6.0,356.96,2141.76
+ORD000011,2023-06-26,KappaMug,Home,East,1.0,20.09,20.09
+ORD000012,2023-08-24,IotaLamp,Home,North,7.0,485.26,3396.82
+ORD000013,2023-02-10,IotaLamp,Home,East,10.0,417.9,4179.0
+ORD000014,2023-07-05,KappaMug,Home,South,2.0,114.05,228.1
+ORD000015,2023-01-24,DeltaCharger,Accessories,East,2.0,99.09,198.18
+ORD000016,2023-04-30,BetaLaptop,Electronics,West,5.0,99.87,499.35
+ORD000017,2023-08-21,SigmaDesk,Furniture,South,6.0,159.08,954.48
+ORD000018,2023-07-01,DeltaCharger,Accessories,East,2.0,267.13,534.26
+ORD000019,2023-11-08,GammaHeadset,Accessories,South,3.0,221.65,664.95
+ORD000020,2023-08-25,ZetaNotebook,Office Supplies,East,9.0,152.7,1374.3
+ORD000021,2023-04-23,SigmaDesk,Furniture,North,4.0,309.81,1239.24
+ORD000022,2023-01-17,SigmaDesk,Furniture,West,5.0,78.35,391.75
+ORD000023,2023-02-03,DeltaCharger,Accessories,East,4.0,153.15,612.6
+ORD000024,2023-12-02,ThetaPen,Office Supplies,West,8.0,189.52,1516.16
+ORD000025,2023-03-15,OmegaChair,Furniture,South,4.0,233.47,933.88
+ORD000026,2023-10-15,IotaLamp,Home,East,10.0,394.74,3947.4
+ORD000027,2023-08-08,KappaMug,Home,West,6.0,107.84,647.04
+ORD000028,2023-04-23,GammaHeadset,Accessories,West,2.0,261.97,523.94
+ORD000029,2023-01-25,BetaLaptop,Electronics,South,3.0,300.28,900.84
+ORD000030,2023-12-15,ZetaNotebook,Office Supplies,North,7.0,32.76,229.32
+ORD000031,2023-07-15,KappaMug,Home,West,9.0,307.7,2769.3
+ORD000032,2023-05-09,IotaLamp,Home,North,2.0,93.56,187.12
+ORD000033,2023-12-16,IotaLamp,Home,East,6.0,41.88,251.28
+ORD000034,2023-02-27,OmegaChair,Furniture,West,3.0,474.95,1424.85
+ORD000035,2023-08-21,AlphaPhone,Electronics,East,9.0,483.16,4348.44
+ORD000036,2023-04-02,IotaLamp,Home,North,5.0,406.11,2030.55
+ORD000037,2023-11-24,IotaLamp,Home,South,3.0,159.26,477.78
+ORD000038,2023-07-11,GammaHeadset,Accessories,North,10.0,57.86,578.6
+ORD000039,2023-06-15,ThetaPen,Office Supplies,North,2.0,345.27,690.54
+ORD000040,2023-07-05,OmegaChair,Furniture,South,1.0,225.67,225.67
+ORD000041,2023-05-04,KappaMug,Home,North,2.0,69.8,139.6
+ORD000042,2023-09-06,BetaLaptop,Electronics,South,3.0,252.64,757.92
+ORD000043,2023-12-04,ThetaPen,Office Supplies,South,5.0,26.85,134.25
+ORD000044,2023-09-28,KappaMug,Home,West,4.0,455.57,1822.28
+ORD000045,2023-10-04,DeltaCharger,Accessories,East,7.0,136.8,957.6
+ORD000046,2023-12-10,SigmaDesk,Furniture,West,9.0,334.64,3011.76
+ORD000047,2023-08-20,BetaLaptop,Electronics,South,4.0,162.74,650.96
+ORD000048,2023-02-02,SigmaDesk,Furniture,North,10.0,264.83,2648.3
+ORD000049,2023-10-11,DeltaCharger,Accessories,South,1.0,277.89,277.89
+ORD000050,2023-02-06,AlphaPhone,Electronics,South,2.0,100.58,201.16
+ORD000051,2023-01-17,SigmaDesk,Furniture,North,9.0,485.1,4365.9
+ORD000052,2023-05-02,OmegaChair,Furniture,West,4.0,389.82,1559.28
+ORD000053,2023-10-04,GammaHeadset,Accessories,West,4.0,470.35,1881.4
+ORD000054,2023-08-31,ZetaNotebook,Office Supplies,South,2.0,448.47,896.94
+ORD000055,2023-02-19,ZetaNotebook,Office Supplies,East,7.0,302.97,2120.79
+ORD000056,2023-07-30,ThetaPen,Office Supplies,North,2.0,461.72,923.44
+ORD000057,2023-02-01,ZetaNotebook,Office Supplies,East,2.0,53.36,106.72
+ORD000058,2023-05-08,DeltaCharger,Accessories,South,9.0,106.03,954.27
+ORD000059,2023-08-18,GammaHeadset,Accessories,West,3.0,32.16,96.48
+ORD000060,2023-05-23,ThetaPen,Office Supplies,South,2.0,169.41,338.82
+ORD000061,2023-08-15,IotaLamp,Home,North,1.0,200.45,200.45
+ORD000062,2023-11-30,IotaLamp,Home,North,2.0,142.96,285.92
+ORD000063,2023-05-02,GammaHeadset,Accessories,West,8.0,416.08,3328.64
+ORD000064,2023-09-04,DeltaCharger,Accessories,West,1.0,184.81,184.81
+ORD000065,2023-03-26,ZetaNotebook,Office Supplies,North,7.0,147.66,1033.62
+ORD000066,2023-05-16,ThetaPen,Office Supplies,East,7.0,275.92,1931.44
+ORD000067,2023-12-23,IotaLamp,Home,West,3.0,79.05,237.15
+ORD000068,2023-04-08,OmegaChair,Furniture,South,1.0,403.08,403.08
+ORD000069,2023-10-24,IotaLamp,Home,North,6.0,46.53,279.18
+ORD000070,2023-01-30,AlphaPhone,Electronics,West,9.0,493.57,4442.13
+ORD000071,2023-09-29,GammaHeadset,Accessories,North,9.0,388.4,3495.6
+ORD000072,2023-02-11,GammaHeadset,Accessories,North,10.0,107.37,1073.7
+ORD000073,2023-02-04,DeltaCharger,Accessories,West,2.0,12.71,25.42
+ORD000074,2023-10-19,DeltaCharger,Accessories,North,10.0,409.58,4095.8
+ORD000075,2023-02-11,ZetaNotebook,Office Supplies,East,5.0,356.36,1781.8
+ORD000076,2023-04-15,SigmaDesk,Furniture,South,5.0,367.21,1836.05
+ORD000077,2023-07-22,GammaHeadset,Accessories,East,8.0,387.92,3103.36
+ORD000078,2023-06-11,BetaLaptop,Electronics,North,8.0,46.28,370.24
+ORD000079,2023-11-15,KappaMug,Home,North,2.0,185.65,371.3
+ORD000080,2023-10-03,DeltaCharger,Accessories,East,3.0,66.78,200.34
+ORD000081,2023-06-28,BetaLaptop,Electronics,South,6.0,432.92,2597.52
+ORD000082,2023-05-26,GammaHeadset,Accessories,West,9.0,315.42,2838.78
+ORD000083,2023-12-27,OmegaChair,Furniture,North,9.0,172.14,1549.26
+ORD000084,2023-06-03,BetaLaptop,Electronics,South,5.0,41.14,205.7
+ORD000085,2023-03-01,BetaLaptop,Electronics,South,5.0,162.38,811.9
+ORD000086,2023-05-25,KappaMug,Home,South,6.0,169.34,1016.04
+ORD000087,2023-04-15,OmegaChair,Furniture,West,5.0,367.51,1837.55
+ORD000088,2023-01-27,BetaLaptop,Electronics,West,5.0,322.4,1612.0
+ORD000089,2023-01-23,AlphaPhone,Electronics,East,3.0,444.73,1334.19
+ORD000090,2023-11-23,OmegaChair,Furniture,South,8.0,241.39,1931.12
+ORD000091,2023-10-10,ZetaNotebook,Office Supplies,North,2.0,68.6,137.2
+ORD000092,2023-02-08,GammaHeadset,Accessories,North,6.0,359.49,2156.94
+ORD000093,2023-10-26,IotaLamp,Home,South,7.0,382.78,2679.46
+ORD000094,2023-03-07,AlphaPhone,Electronics,East,6.0,285.03,1710.18
+ORD000095,2023-01-21,SigmaDesk,Furniture,South,4.0,387.77,1551.08
+ORD000096,2023-12-08,BetaLaptop,Electronics,East,9.0,251.96,2267.64
+ORD000097,2023-07-28,KappaMug,Home,South,4.0,266.14,1064.56
+ORD000098,2023-03-25,GammaHeadset,Accessories,West,1.0,219.5,219.5
+ORD000099,2023-04-02,SigmaDesk,Furniture,West,4.0,22.46,89.84
+ORD000100,2023-05-17,GammaHeadset,Accessories,North,7.0,62.87,440.09
+ORD000101,2023-01-20,ThetaPen,Office Supplies,South,4.0,25.4,101.6
+ORD000102,2023-08-24,SigmaDesk,Furniture,East,4.0,321.84,1287.36
+ORD000103,2023-04-25,AlphaPhone,Electronics,South,7.0,164.03,1148.21
+ORD000104,2023-06-18,OmegaChair,Furniture,North,5.0,259.2,1296.0
+ORD000105,2023-06-29,IotaLamp,Home,West,9.0,454.71,4092.39
+ORD000106,2023-06-19,AlphaPhone,Electronics,North,5.0,132.15,660.75
+ORD000107,2023-04-02,KappaMug,Home,East,1.0,211.09,211.09
+ORD000108,2023-02-25,KappaMug,Home,West,6.0,380.22,2281.32
+ORD000109,2023-06-10,ZetaNotebook,Office Supplies,North,7.0,122.11,854.77
+ORD000110,2023-10-23,DeltaCharger,Accessories,East,1.0,47.72,47.72
+ORD000111,2023-12-29,ZetaNotebook,Office Supplies,North,9.0,151.98,1367.82
+ORD000112,2023-10-03,DeltaCharger,Accessories,East,7.0,89.0,623.0
+ORD000113,2023-02-05,SigmaDesk,Furniture,East,2.0,465.55,931.1
+ORD000114,2023-06-03,IotaLamp,Home,East,7.0,405.98,2841.86
+ORD000115,2023-06-17,ZetaNotebook,Office Supplies,East,9.0,320.37,2883.33
+ORD000116,2023-03-07,DeltaCharger,Accessories,West,7.0,437.02,3059.14
+ORD000117,2023-12-13,GammaHeadset,Accessories,East,7.0,403.8,2826.6
+ORD000118,2023-10-08,AlphaPhone,Electronics,East,5.0,101.42,507.1
+ORD000119,2023-04-18,ZetaNotebook,Office Supplies,East,8.0,447.35,3578.8
+ORD000120,2023-08-15,ThetaPen,Office Supplies,South,9.0,274.28,2468.52
+ORD000121,2023-08-31,GammaHeadset,Accessories,North,5.0,405.65,2028.25
+ORD000122,2023-09-21,KappaMug,Home,East,2.0,449.08,898.16
+ORD000123,2023-05-01,OmegaChair,Furniture,South,4.0,165.82,663.28
+ORD000124,2023-03-17,AlphaPhone,Electronics,North,4.0,63.93,255.72
+ORD000125,2023-09-01,KappaMug,Home,North,8.0,121.69,973.52
+ORD000126,2023-08-01,KappaMug,Home,South,7.0,219.28,1534.96
+ORD000127,2023-09-11,ZetaNotebook,Office Supplies,South,3.0,410.83,1232.49
+ORD000128,2023-12-02,AlphaPhone,Electronics,North,7.0,431.76,3022.32
+ORD000129,2023-04-23,GammaHeadset,Accessories,West,1.0,13.41,13.41
+ORD000130,2023-10-13,DeltaCharger,Accessories,North,8.0,260.27,2082.16
+ORD000131,2023-03-10,ThetaPen,Office Supplies,East,8.0,214.53,1716.24
+ORD000132,2023-11-10,IotaLamp,Home,West,9.0,118.83,1069.47
+ORD000133,2023-08-17,GammaHeadset,Accessories,West,8.0,68.73,549.84
+ORD000134,2023-05-13,DeltaCharger,Accessories,East,9.0,175.43,1578.87
+ORD000135,2023-09-06,DeltaCharger,Accessories,East,8.0,472.03,3776.24
+ORD000136,2023-02-09,OmegaChair,Furniture,South,5.0,168.37,841.85
+ORD000137,2023-06-21,SigmaDesk,Furniture,North,3.0,264.21,792.63
+ORD000138,2023-03-19,DeltaCharger,Accessories,West,3.0,354.48,1063.44
+ORD000139,2023-12-28,DeltaCharger,Accessories,North,7.0,188.18,1317.26
+ORD000140,2023-07-28,SigmaDesk,Furniture,West,7.0,486.17,3403.19
+ORD000141,2023-02-01,DeltaCharger,Accessories,West,7.0,481.6,3371.2
+ORD000142,2023-10-27,AlphaPhone,Electronics,West,8.0,133.37,1066.96
+ORD000143,2023-01-04,SigmaDesk,Furniture,East,7.0,253.65,1775.55
+ORD000144,2023-08-03,IotaLamp,Home,South,8.0,157.43,1259.44
+ORD000145,2023-04-23,OmegaChair,Furniture,West,8.0,149.57,1196.56
+ORD000146,2023-01-15,ZetaNotebook,Office Supplies,East,7.0,28.07,196.49
+ORD000147,2023-03-26,ThetaPen,Office Supplies,South,10.0,308.69,3086.9
+ORD000148,2023-10-01,AlphaPhone,Electronics,West,10.0,256.31,2563.1
+ORD000149,2023-10-16,AlphaPhone,Electronics,North,7.0,35.22,246.54
+ORD000150,2023-03-11,ThetaPen,Office Supplies,South,1.0,146.54,146.54
+ORD000151,2023-05-14,ZetaNotebook,Office Supplies,East,4.0,455.05,1820.2
+ORD000152,2023-08-21,SigmaDesk,Furniture,East,7.0,127.39,891.73
+ORD000153,2023-05-23,ZetaNotebook,Office Supplies,East,2.0,81.0,162.0
+ORD000154,2023-08-29,AlphaPhone,Electronics,North,6.0,249.83,1498.98
+ORD000155,2023-04-25,BetaLaptop,Electronics,North,1.0,492.97,492.97
+ORD000156,2023-05-07,DeltaCharger,Accessories,North,10.0,128.61,1286.1
+ORD000157,2023-03-20,DeltaCharger,Accessories,South,8.0,339.35,2714.8
+ORD000158,2023-12-09,BetaLaptop,Electronics,South,8.0,383.19,3065.52
+ORD000159,2023-12-25,OmegaChair,Furniture,East,3.0,126.44,379.32
+ORD000160,2023-11-07,KappaMug,Home,North,3.0,366.83,1100.49
+ORD000161,2023-06-09,BetaLaptop,Electronics,North,5.0,190.21,951.05
+ORD000162,2023-10-22,ZetaNotebook,Office Supplies,West,4.0,319.83,1279.32
+ORD000163,2023-02-08,KappaMug,Home,South,2.0,320.43,640.86
+ORD000164,2023-12-23,OmegaChair,Furniture,North,10.0,272.53,2725.3
+ORD000165,2023-01-22,SigmaDesk,Furniture,West,6.0,54.24,325.44
+ORD000166,2023-02-05,IotaLamp,Home,East,1.0,419.3,419.3
+ORD000167,2023-08-04,ThetaPen,Office Supplies,North,7.0,167.18,1170.26
+ORD000168,2023-07-05,ThetaPen,Office Supplies,South,7.0,101.39,709.73
+ORD000169,2023-04-01,IotaLamp,Home,East,10.0,29.98,299.8
+ORD000170,2023-10-03,ThetaPen,Office Supplies,West,7.0,299.54,2096.78
+ORD000171,2023-10-31,OmegaChair,Furniture,East,4.0,342.01,1368.04
+ORD000172,2023-02-14,OmegaChair,Furniture,West,4.0,18.13,72.52
+ORD000173,2023-08-26,KappaMug,Home,West,6.0,260.93,1565.58
+ORD000174,2023-01-15,ThetaPen,Office Supplies,East,3.0,120.98,362.94
+ORD000175,2023-09-07,DeltaCharger,Accessories,East,5.0,326.13,1630.65
+ORD000176,2023-06-24,OmegaChair,Furniture,East,9.0,95.44,858.96
+ORD000177,2023-01-06,IotaLamp,Home,South,2.0,348.56,697.12
+ORD000178,2023-05-04,ZetaNotebook,Office Supplies,West,9.0,199.5,1795.5
+ORD000179,2023-05-04,ThetaPen,Office Supplies,West,8.0,469.0,3752.0
+ORD000180,2023-01-09,BetaLaptop,Electronics,East,4.0,77.39,309.56
+ORD000181,2023-07-27,DeltaCharger,Accessories,East,10.0,177.12,1771.2
+ORD000182,2023-07-08,ThetaPen,Office Supplies,East,7.0,65.6,459.2
+ORD000183,2023-10-09,SigmaDesk,Furniture,East,8.0,463.1,3704.8
+ORD000184,2023-05-19,OmegaChair,Furniture,East,4.0,439.9,1759.6
+ORD000185,2023-03-03,DeltaCharger,Accessories,East,2.0,136.39,272.78
+ORD000186,2023-10-02,GammaHeadset,Accessories,South,4.0,333.39,1333.56
+ORD000187,2023-09-05,OmegaChair,Furniture,East,2.0,410.44,820.88
+ORD000188,2023-04-10,OmegaChair,Furniture,South,6.0,282.05,1692.3
+ORD000189,2023-04-02,OmegaChair,Furniture,North,9.0,269.53,2425.77
+ORD000190,2023-03-06,OmegaChair,Furniture,North,1.0,128.51,128.51
+ORD000191,2023-10-11,OmegaChair,Furniture,South,8.0,55.62,444.96
+ORD000192,2023-02-22,AlphaPhone,Electronics,East,8.0,449.64,3597.12
+ORD000193,2023-09-03,ThetaPen,Office Supplies,East,3.0,451.2,1353.6
+ORD000194,2023-01-27,OmegaChair,Furniture,West,2.0,320.22,640.44
+ORD000195,2023-02-03,ZetaNotebook,Office Supplies,West,2.0,176.12,352.24
+ORD000196,2023-10-23,AlphaPhone,Electronics,South,3.0,181.11,543.33
+ORD000197,2023-10-16,OmegaChair,Furniture,North,4.0,365.72,1462.88
+ORD000198,2023-03-02,IotaLamp,Home,West,10.0,449.58,4495.8
+ORD000199,2023-11-02,KappaMug,Home,South,9.0,444.67,4002.03
+ORD000200,2023-07-14,ThetaPen,Office Supplies,West,5.0,392.14,1960.7
+ORD000201,2023-10-29,ZetaNotebook,Office Supplies,East,10.0,324.6,3246.0
+ORD000202,2023-11-14,AlphaPhone,Electronics,North,4.0,51.23,204.92
+ORD000203,2023-11-17,DeltaCharger,Accessories,East,2.0,89.2,178.4
+ORD000204,2023-03-22,DeltaCharger,Accessories,South,9.0,450.29,4052.61
+ORD000205,2023-02-08,GammaHeadset,Accessories,North,7.0,307.15,2150.05
+ORD000206,2023-08-19,KappaMug,Home,West,5.0,14.51,72.55
+ORD000207,2023-01-17,DeltaCharger,Accessories,East,5.0,59.72,298.6
+ORD000208,2023-12-26,ThetaPen,Office Supplies,North,4.0,335.12,1340.48
+ORD000209,2023-05-16,KappaMug,Home,South,7.0,12.48,87.36
+ORD000210,2023-02-28,IotaLamp,Home,South,3.0,88.8,266.4
+ORD000211,2023-05-17,GammaHeadset,Accessories,North,1.0,278.88,278.88
+ORD000212,2023-03-26,OmegaChair,Furniture,East,8.0,349.03,2792.24
+ORD000213,2023-03-05,ThetaPen,Office Supplies,East,7.0,329.46,2306.22
+ORD000214,2023-05-20,IotaLamp,Home,West,8.0,119.89,959.12
+ORD000215,2023-02-11,KappaMug,Home,North,7.0,358.97,2512.79
+ORD000216,2023-06-15,KappaMug,Home,East,1.0,126.25,126.25
+ORD000217,2023-02-16,DeltaCharger,Accessories,North,5.0,169.45,847.25
+ORD000218,2023-10-23,AlphaPhone,Electronics,South,8.0,375.78,3006.24
+ORD000219,2023-09-23,ThetaPen,Office Supplies,East,3.0,328.32,984.96
+ORD000220,2023-10-27,ZetaNotebook,Office Supplies,West,2.0,426.12,852.24
+ORD000221,2023-08-29,SigmaDesk,Furniture,West,6.0,332.23,1993.38
+ORD000222,2023-06-14,BetaLaptop,Electronics,South,6.0,288.47,1730.82
+ORD000223,2023-07-30,ThetaPen,Office Supplies,East,7.0,55.9,391.3
+ORD000224,2023-10-09,AlphaPhone,Electronics,West,2.0,190.18,380.36
+ORD000225,2023-06-11,OmegaChair,Furniture,East,2.0,139.95,279.9
+ORD000226,2023-07-26,IotaLamp,Home,North,9.0,129.55,1165.95
+ORD000227,2023-08-25,ZetaNotebook,Office Supplies,North,4.0,486.78,1947.12
+ORD000228,2023-09-23,SigmaDesk,Furniture,West,8.0,202.62,1620.96
+ORD000229,2023-01-27,DeltaCharger,Accessories,East,9.0,447.1,4023.9
+ORD000230,2023-03-09,OmegaChair,Furniture,West,8.0,319.26,2554.08
+ORD000231,2023-03-04,AlphaPhone,Electronics,South,3.0,399.46,1198.38
+ORD000232,2023-06-09,IotaLamp,Home,North,9.0,256.29,2306.61
+ORD000233,2023-07-28,BetaLaptop,Electronics,South,2.0,292.68,585.36
+ORD000234,2023-08-25,BetaLaptop,Electronics,South,8.0,251.33,2010.64
+ORD000235,2023-05-30,IotaLamp,Home,East,7.0,105.67,739.69
+ORD000236,2023-09-05,ThetaPen,Office Supplies,South,8.0,364.0,2912.0
+ORD000237,2023-10-10,GammaHeadset,Accessories,West,4.0,147.58,590.32
+ORD000238,2023-11-03,IotaLamp,Home,South,2.0,21.91,43.82
+ORD000239,2023-05-22,ZetaNotebook,Office Supplies,East,9.0,326.28,2936.52
+ORD000240,2023-05-17,AlphaPhone,Electronics,East,5.0,96.78,483.9
+ORD000241,2023-10-28,KappaMug,Home,West,3.0,470.82,1412.46
+ORD000242,2023-08-17,IotaLamp,Home,West,6.0,477.43,2864.58
+ORD000243,2023-06-20,IotaLamp,Home,West,8.0,458.28,3666.24
+ORD000244,2023-06-14,DeltaCharger,Accessories,South,10.0,191.38,1913.8
+ORD000245,2023-07-16,DeltaCharger,Accessories,West,1.0,17.57,17.57
+ORD000246,2023-06-12,ThetaPen,Office Supplies,West,7.0,464.88,3254.16
+ORD000247,2023-12-06,GammaHeadset,Accessories,West,1.0,219.81,219.81
+ORD000248,2023-03-06,IotaLamp,Home,East,2.0,483.66,967.32
+ORD000249,2023-08-14,BetaLaptop,Electronics,West,1.0,482.17,482.17
+ORD000250,2023-03-15,ZetaNotebook,Office Supplies,South,2.0,427.97,855.94
+ORD000251,2023-08-29,OmegaChair,Furniture,East,10.0,154.28,1542.8
+ORD000252,2023-12-21,ZetaNotebook,Office Supplies,North,6.0,198.7,1192.2
+ORD000253,2023-12-12,IotaLamp,Home,West,6.0,427.06,2562.36
+ORD000254,2023-11-17,ThetaPen,Office Supplies,North,10.0,165.29,1652.9
+ORD000255,2023-02-05,DeltaCharger,Accessories,East,4.0,93.05,372.2
+ORD000256,2023-02-16,ZetaNotebook,Office Supplies,North,2.0,282.83,565.66
+ORD000257,2023-08-16,GammaHeadset,Accessories,East,1.0,468.72,468.72
+ORD000258,2023-01-24,SigmaDesk,Furniture,North,5.0,351.05,1755.25
+ORD000259,2023-07-03,SigmaDesk,Furniture,West,3.0,289.33,867.99
+ORD000260,2023-05-06,IotaLamp,Home,West,10.0,57.62,576.2
+ORD000261,2023-12-16,GammaHeadset,Accessories,South,3.0,311.35,934.05
+ORD000262,2023-02-10,KappaMug,Home,West,10.0,495.13,4951.3
+ORD000263,2023-12-16,DeltaCharger,Accessories,West,10.0,78.64,786.4
+ORD000264,2023-03-15,DeltaCharger,Accessories,West,5.0,263.98,1319.9
+ORD000265,2023-08-24,OmegaChair,Furniture,North,8.0,439.91,3519.28
+ORD000266,2023-05-28,IotaLamp,Home,South,2.0,372.98,745.96
+ORD000267,2023-08-15,SigmaDesk,Furniture,East,7.0,351.54,2460.78
+ORD000268,2023-12-20,OmegaChair,Furniture,West,5.0,354.22,1771.1
+ORD000269,2023-04-12,ZetaNotebook,Office Supplies,West,2.0,186.15,372.3
+ORD000270,2023-05-02,ZetaNotebook,Office Supplies,East,10.0,153.86,1538.6
+ORD000271,2023-06-01,OmegaChair,Furniture,North,7.0,406.59,2846.13
+ORD000272,2023-05-21,AlphaPhone,Electronics,North,10.0,406.96,4069.6
+ORD000273,2023-09-12,OmegaChair,Furniture,South,10.0,434.87,4348.7
+ORD000274,2023-06-30,DeltaCharger,Accessories,South,10.0,457.49,4574.9
+ORD000275,2023-05-09,GammaHeadset,Accessories,North,1.0,260.56,260.56
+ORD000276,2023-06-08,ThetaPen,Office Supplies,North,10.0,255.74,2557.4
+ORD000277,2023-07-06,GammaHeadset,Accessories,North,5.0,401.16,2005.8
+ORD000278,2023-06-17,ZetaNotebook,Office Supplies,South,4.0,328.48,1313.92
+ORD000279,2023-03-09,IotaLamp,Home,East,9.0,353.96,3185.64
+ORD000280,2023-09-14,OmegaChair,Furniture,South,5.0,399.94,1999.7
+ORD000281,2023-09-04,OmegaChair,Furniture,East,2.0,446.1,892.2
+ORD000282,2023-08-28,BetaLaptop,Electronics,South,4.0,175.62,702.48
+ORD000283,2023-12-13,ZetaNotebook,Office Supplies,East,2.0,194.04,388.08
+ORD000284,2023-07-22,AlphaPhone,Electronics,East,9.0,56.05,504.45
+ORD000285,2023-03-05,ThetaPen,Office Supplies,East,5.0,293.36,1466.8
+ORD000286,2023-10-27,ZetaNotebook,Office Supplies,East,2.0,27.61,55.22
+ORD000287,2023-12-12,DeltaCharger,Accessories,West,1.0,238.14,238.14
+ORD000288,2023-11-14,IotaLamp,Home,East,10.0,275.9,2759.0
+ORD000289,2023-04-24,BetaLaptop,Electronics,West,5.0,150.41,752.05
+ORD000290,2023-11-29,ZetaNotebook,Office Supplies,North,3.0,299.51,898.53
+ORD000291,2023-01-24,AlphaPhone,Electronics,East,8.0,24.95,199.6
+ORD000292,2023-03-01,BetaLaptop,Electronics,South,9.0,28.3,254.7
+ORD000293,2023-03-11,ZetaNotebook,Office Supplies,West,6.0,413.07,2478.42
+ORD000294,2023-12-10,IotaLamp,Home,West,10.0,186.49,1864.9
+ORD000295,2023-03-21,ZetaNotebook,Office Supplies,North,8.0,72.26,578.08
+ORD000296,2023-11-12,ZetaNotebook,Office Supplies,East,1.0,265.9,265.9
+ORD000297,2023-12-20,SigmaDesk,Furniture,South,8.0,387.3,3098.4
+ORD000298,2023-08-16,DeltaCharger,Accessories,East,2.0,115.75,231.5
+ORD000299,2023-12-18,SigmaDesk,Furniture,East,1.0,315.22,315.22
+ORD000300,2023-07-23,OmegaChair,Furniture,South,2.0,51.82,103.64
+ORD000301,2023-08-21,BetaLaptop,Electronics,South,10.0,35.32,353.2
+ORD000302,2023-01-11,AlphaPhone,Electronics,East,4.0,270.36,1081.44
+ORD000303,2023-03-06,KappaMug,Home,South,2.0,274.91,549.82
+ORD000304,2023-10-11,DeltaCharger,Accessories,South,4.0,322.34,1289.36
+ORD000305,2023-06-18,GammaHeadset,Accessories,North,5.0,365.78,1828.9
+ORD000306,2023-03-16,GammaHeadset,Accessories,East,3.0,488.17,1464.51
+ORD000307,2023-02-26,AlphaPhone,Electronics,South,1.0,262.99,262.99
+ORD000308,2023-07-03,DeltaCharger,Accessories,East,1.0,,168.25
+ORD000309,2023-03-31,OmegaChair,Furniture,North,3.0,399.64,1198.92
+ORD000310,2023-08-04,IotaLamp,Home,North,2.0,142.71,285.42
+ORD000311,2023-09-01,ThetaPen,Office Supplies,East,9.0,225.1,2025.9
+ORD000312,2023-10-31,BetaLaptop,Electronics,West,9.0,48.44,435.96
+ORD000313,2023-04-24,KappaMug,Home,North,9.0,22.42,201.78
+ORD000314,2023-06-04,ThetaPen,Office Supplies,North,1.0,481.7,481.7
+ORD000315,2023-09-03,ZetaNotebook,Office Supplies,West,2.0,419.63,839.26
+ORD000316,2023-09-09,ThetaPen,Office Supplies,North,2.0,351.03,702.06
+ORD000317,2023-06-14,KappaMug,Home,South,2.0,210.39,420.78
+ORD000318,2023-03-06,OmegaChair,Furniture,East,7.0,94.91,664.37
+ORD000319,2023-11-02,IotaLamp,Home,East,8.0,86.65,693.2
+ORD000320,2023-09-16,KappaMug,Home,West,2.0,132.62,265.24
+ORD000321,2023-12-26,BetaLaptop,Electronics,South,7.0,279.12,1953.84
+ORD000322,2023-08-20,DeltaCharger,Accessories,West,6.0,360.15,2160.9
+ORD000323,2023-08-21,ZetaNotebook,Office Supplies,West,2.0,333.5,667.0
+ORD000324,2023-06-10,ZetaNotebook,Office Supplies,East,5.0,147.17,735.85
+ORD000325,2023-07-11,GammaHeadset,Accessories,West,2.0,477.88,955.76
+ORD000326,2023-02-16,BetaLaptop,Electronics,North,7.0,371.57,2600.99
+ORD000327,2023-02-19,SigmaDesk,Furniture,South,9.0,281.63,2534.67
+ORD000328,2023-01-31,KappaMug,Home,East,2.0,309.74,619.48
+ORD000329,2023-07-30,SigmaDesk,Furniture,West,1.0,215.6,215.6
+ORD000330,2023-05-28,KappaMug,Home,East,6.0,131.39,788.34
+ORD000331,2023-02-23,KappaMug,Home,South,3.0,184.43,553.29
+ORD000332,2023-12-03,ThetaPen,Office Supplies,South,2.0,381.34,762.68
+ORD000333,2023-06-29,IotaLamp,Home,East,2.0,17.05,34.1
+ORD000334,2023-05-23,KappaMug,Home,South,7.0,66.88,468.16
+ORD000335,2023-10-15,KappaMug,Home,North,10.0,32.54,325.4
+ORD000336,2023-12-03,OmegaChair,Furniture,North,3.0,29.96,89.88
+ORD000337,2023-05-20,OmegaChair,Furniture,East,6.0,429.18,2575.08
+ORD000338,2023-01-04,GammaHeadset,Accessories,South,10.0,354.79,3547.9
+ORD000339,2023-12-03,ZetaNotebook,Office Supplies,North,3.0,242.35,727.05
+ORD000340,2023-11-21,AlphaPhone,Electronics,North,9.0,57.94,521.46
+ORD000341,2023-04-21,ZetaNotebook,Office Supplies,West,8.0,250.89,2007.12
+ORD000342,2023-06-24,GammaHeadset,Accessories,East,5.0,242.0,1210.0
+ORD000343,2023-06-16,KappaMug,Home,North,1.0,94.87,94.87
+ORD000344,2023-03-21,GammaHeadset,Accessories,North,2.0,222.59,445.18
+ORD000345,2023-05-20,ThetaPen,Office Supplies,West,8.0,205.27,1642.16
+ORD000346,2023-11-07,ThetaPen,Office Supplies,West,5.0,311.77,1558.85
+ORD000347,2023-04-21,IotaLamp,Home,North,6.0,321.2,1927.2
+ORD000348,2023-08-09,BetaLaptop,Electronics,East,10.0,32.2,322.0
+ORD000349,2023-09-07,IotaLamp,Home,East,1.0,193.56,193.56
+ORD000350,2023-04-23,ZetaNotebook,Office Supplies,North,1.0,316.67,316.67
+ORD000351,2023-04-15,OmegaChair,Furniture,South,3.0,256.54,769.62
+ORD000352,2023-05-11,OmegaChair,Furniture,East,2.0,429.68,859.36
+ORD000353,2023-01-04,ThetaPen,Office Supplies,West,3.0,332.76,998.28
+ORD000354,2023-03-08,ZetaNotebook,Office Supplies,South,9.0,89.84,808.56
+ORD000355,2023-10-14,SigmaDesk,Furniture,North,7.0,44.58,312.06
+ORD000356,2023-01-22,ZetaNotebook,Office Supplies,North,8.0,324.79,2598.32
+ORD000357,2023-02-09,SigmaDesk,Furniture,West,10.0,22.99,229.9
+ORD000358,2023-07-27,ZetaNotebook,Office Supplies,East,2.0,297.03,594.06
+ORD000359,2023-07-27,AlphaPhone,Electronics,East,3.0,470.71,1412.13
+ORD000360,2023-11-13,ThetaPen,Office Supplies,East,2.0,291.98,583.96
+ORD000361,2023-08-12,BetaLaptop,Electronics,South,7.0,200.2,1401.4
+ORD000362,2023-10-29,ZetaNotebook,Office Supplies,North,7.0,325.21,2276.47
+ORD000363,2023-06-08,SigmaDesk,Furniture,South,6.0,234.54,1407.24
+ORD000364,2023-03-28,BetaLaptop,Electronics,North,9.0,277.35,2496.15
+ORD000365,2023-09-19,DeltaCharger,Accessories,East,6.0,471.32,2827.92
+ORD000366,2023-11-27,GammaHeadset,Accessories,South,2.0,199.19,398.38
+ORD000367,2023-03-16,OmegaChair,Furniture,South,3.0,480.98,1442.94
+ORD000368,2023-11-05,GammaHeadset,Accessories,North,3.0,453.62,1360.86
+ORD000369,2023-11-18,ThetaPen,Office Supplies,West,10.0,105.94,1059.4
+ORD000370,2023-10-24,ThetaPen,Office Supplies,East,6.0,43.99,263.94
+ORD000371,2023-03-19,ThetaPen,Office Supplies,North,8.0,59.38,475.04
+ORD000372,2023-08-15,OmegaChair,Furniture,East,10.0,18.93,189.3
+ORD000373,2023-01-29,SigmaDesk,Furniture,North,5.0,56.28,281.4
+ORD000374,2023-08-25,ThetaPen,Office Supplies,North,1.0,344.67,344.67
+ORD000375,2023-07-08,OmegaChair,Furniture,North,2.0,44.88,89.76
+ORD000376,2023-11-11,KappaMug,Home,West,8.0,166.3,1330.4
+ORD000377,2023-10-25,IotaLamp,Home,North,8.0,423.99,3391.92
+ORD000378,2023-10-20,DeltaCharger,Accessories,East,10.0,21.4,214.0
+ORD000379,2023-09-01,IotaLamp,Home,South,1.0,409.09,409.09
+ORD000380,2023-08-19,BetaLaptop,Electronics,East,2.0,148.11,296.22
+ORD000381,2023-09-16,GammaHeadset,Accessories,North,4.0,67.9,271.6
+ORD000382,2023-12-29,ThetaPen,Office Supplies,West,9.0,351.4,3162.6
+ORD000383,2023-09-25,KappaMug,Home,South,6.0,318.18,1909.08
+ORD000384,2023-07-10,OmegaChair,Furniture,West,7.0,439.96,3079.72
+ORD000385,2023-06-23,KappaMug,Home,North,6.0,370.18,2221.08
+ORD000386,2023-02-03,SigmaDesk,Furniture,North,9.0,403.71,3633.39
+ORD000387,2023-12-14,ZetaNotebook,Office Supplies,East,5.0,148.2,741.0
+ORD000388,2023-12-03,KappaMug,Home,South,6.0,96.95,581.7
+ORD000389,2023-02-11,KappaMug,Home,South,6.0,377.8,2266.8
+ORD000390,2023-06-08,ZetaNotebook,Office Supplies,South,10.0,405.35,4053.5
+ORD000391,2023-12-29,BetaLaptop,Electronics,East,9.0,495.35,4458.15
+ORD000392,2023-07-12,SigmaDesk,Furniture,South,9.0,212.18,1909.62
+ORD000393,2023-02-17,ZetaNotebook,Office Supplies,East,1.0,192.29,192.29
+ORD000394,2023-07-05,OmegaChair,Furniture,South,4.0,390.44,1561.76
+ORD000395,2023-06-24,ThetaPen,Office Supplies,South,4.0,176.99,707.96
+ORD000396,2023-03-12,GammaHeadset,Accessories,North,5.0,466.07,2330.35
+ORD000397,2023-02-21,IotaLamp,Home,North,6.0,430.62,2583.72
+ORD000398,2023-11-13,GammaHeadset,Accessories,West,3.0,220.21,660.63
+ORD000399,2023-03-25,GammaHeadset,Accessories,South,8.0,377.93,3023.44
+ORD000400,2023-01-23,ZetaNotebook,Office Supplies,East,4.0,379.73,1518.92
+ORD000401,2023-08-16,KappaMug,Home,East,8.0,60.53,484.24
+ORD000402,2023-04-30,IotaLamp,Home,South,5.0,452.25,2261.25
+ORD000403,2023-08-29,DeltaCharger,Accessories,East,10.0,257.57,2575.7
+ORD000404,2023-08-14,ThetaPen,Office Supplies,East,7.0,414.96,2904.72
+ORD000405,2023-09-15,IotaLamp,Home,West,3.0,166.82,500.46
+ORD000406,2023-04-13,KappaMug,Home,South,5.0,448.81,2244.05
+ORD000407,2023-01-27,ThetaPen,Office Supplies,East,9.0,200.71,1806.39
+ORD000408,2023-02-22,IotaLamp,Home,North,5.0,15.31,76.55
+ORD000409,2023-02-12,GammaHeadset,Accessories,East,8.0,453.64,3629.12
+ORD000410,2023-09-20,GammaHeadset,Accessories,West,2.0,54.73,109.46
+ORD000411,2023-04-24,ThetaPen,Office Supplies,East,1.0,166.46,166.46
+ORD000412,2023-08-01,AlphaPhone,Electronics,West,9.0,475.53,4279.77
+ORD000413,2023-07-11,DeltaCharger,Accessories,West,2.0,475.8,951.6
+ORD000414,2023-07-11,DeltaCharger,Accessories,North,6.0,290.98,1745.88
+ORD000415,2023-02-20,SigmaDesk,Furniture,South,3.0,319.6,958.8
+ORD000416,2023-01-20,OmegaChair,Furniture,West,3.0,229.74,689.22
+ORD000417,2023-12-28,ThetaPen,Office Supplies,West,10.0,153.67,1536.7
+ORD000418,2023-01-03,BetaLaptop,Electronics,North,5.0,171.05,855.25
+ORD000419,2023-04-21,GammaHeadset,Accessories,West,2.0,339.53,679.06
+ORD000420,2023-05-28,DeltaCharger,Accessories,East,2.0,378.66,757.32
+ORD000421,2023-01-25,DeltaCharger,Accessories,West,10.0,397.87,3978.7
+ORD000422,2023-08-23,BetaLaptop,Electronics,North,8.0,396.91,3175.28
+ORD000423,2023-11-02,IotaLamp,Home,North,9.0,54.69,492.21
+ORD000424,2023-10-22,DeltaCharger,Accessories,South,5.0,252.27,1261.35
+ORD000425,2023-08-08,AlphaPhone,Electronics,East,4.0,38.2,152.8
+ORD000426,2023-10-20,ZetaNotebook,Office Supplies,South,2.0,279.27,558.54
+ORD000427,2023-09-26,SigmaDesk,Furniture,North,9.0,226.35,2037.15
+ORD000428,2023-10-06,IotaLamp,Home,North,7.0,444.98,3114.86
+ORD000429,2023-08-29,AlphaPhone,Electronics,West,6.0,181.95,1091.7
+ORD000430,2023-05-10,AlphaPhone,Electronics,East,2.0,67.36,134.72
+ORD000431,2023-06-26,DeltaCharger,Accessories,North,10.0,80.07,800.7
+ORD000432,2023-06-20,GammaHeadset,Accessories,North,6.0,383.14,2298.84
+ORD000433,2023-10-07,SigmaDesk,Furniture,South,8.0,312.93,2503.44
+ORD000434,2023-12-23,ThetaPen,Office Supplies,South,3.0,59.55,178.65
+ORD000435,2023-02-02,ThetaPen,Office Supplies,North,5.0,51.21,256.05
+ORD000436,2023-04-14,AlphaPhone,Electronics,South,1.0,353.47,353.47
+ORD000437,2023-06-11,OmegaChair,Furniture,West,9.0,45.65,410.85
+ORD000438,2023-08-31,OmegaChair,Furniture,North,4.0,412.71,1650.84
+ORD000439,2023-05-27,SigmaDesk,Furniture,North,6.0,356.06,2136.36
+ORD000440,2023-05-20,BetaLaptop,Electronics,East,7.0,49.86,349.02
+ORD000441,2023-07-24,ThetaPen,Office Supplies,West,6.0,51.57,309.42
+ORD000442,2023-04-06,ThetaPen,Office Supplies,West,6.0,493.45,2960.7
+ORD000443,2023-09-23,OmegaChair,Furniture,North,7.0,193.39,1353.73
+ORD000444,2023-02-10,ZetaNotebook,Office Supplies,South,9.0,191.61,1724.49
+ORD000445,2023-05-31,SigmaDesk,Furniture,North,2.0,408.27,816.54
+ORD000446,2023-06-17,OmegaChair,Furniture,East,8.0,474.15,3793.2
+ORD000447,2023-11-05,ZetaNotebook,Office Supplies,South,8.0,493.14,3945.12
+ORD000448,2023-06-29,ThetaPen,Office Supplies,North,6.0,379.16,2274.96
+ORD000449,2023-11-11,ZetaNotebook,Office Supplies,East,1.0,194.37,194.37
+ORD000450,2023-02-08,ZetaNotebook,Office Supplies,East,9.0,50.92,458.28
+ORD000451,2023-12-14,GammaHeadset,Accessories,North,3.0,390.8,1172.4
+ORD000452,2023-11-08,ThetaPen,Office Supplies,North,3.0,283.62,850.86
+ORD000453,2023-02-04,DeltaCharger,Accessories,East,6.0,217.87,1307.22
+ORD000454,2023-07-16,KappaMug,Home,North,10.0,454.11,4541.1
+ORD000455,2023-03-20,ThetaPen,Office Supplies,East,6.0,64.49,386.94
+ORD000456,2023-08-16,BetaLaptop,Electronics,South,9.0,251.39,2262.51
+ORD000457,2023-07-07,ZetaNotebook,Office Supplies,East,5.0,15.56,77.8
+ORD000458,2023-05-08,BetaLaptop,Electronics,North,3.0,239.64,718.92
+ORD000459,2023-09-13,IotaLamp,Home,West,9.0,37.59,338.31
+ORD000460,2023-03-02,OmegaChair,Furniture,East,8.0,68.22,545.76
+ORD000461,2023-04-20,KappaMug,Home,East,8.0,67.59,540.72
+ORD000462,2023-04-13,BetaLaptop,Electronics,South,2.0,328.11,656.22
+ORD000463,2023-08-20,GammaHeadset,Accessories,West,2.0,375.56,751.12
+ORD000464,2023-12-16,SigmaDesk,Furniture,East,2.0,295.85,591.7
+ORD000465,2023-10-09,IotaLamp,Home,East,5.0,481.46,2407.3
+ORD000466,2023-03-22,GammaHeadset,Accessories,East,9.0,193.69,1743.21
+ORD000467,2023-04-25,BetaLaptop,Electronics,South,3.0,150.0,450.0
+ORD000468,2023-05-02,ThetaPen,Office Supplies,North,6.0,435.61,2613.66
+ORD000469,2023-10-11,KappaMug,Home,East,8.0,119.56,956.48
+ORD000470,2023-10-10,GammaHeadset,Accessories,North,2.0,481.98,963.96
+ORD000471,2023-06-08,ZetaNotebook,Office Supplies,West,9.0,15.96,143.64
+ORD000472,2023-07-30,ZetaNotebook,Office Supplies,North,3.0,485.24,1455.72
+ORD000473,2023-06-12,BetaLaptop,Electronics,West,8.0,31.15,249.2
+ORD000474,2023-12-15,IotaLamp,Home,East,3.0,446.66,1339.98
+ORD000475,2023-10-10,KappaMug,Home,South,3.0,268.57,805.71
+ORD000476,2023-08-10,IotaLamp,Home,North,2.0,496.55,993.1
+ORD000477,2023-09-23,GammaHeadset,Accessories,East,3.0,46.16,138.48
+ORD000478,2023-03-24,SigmaDesk,Furniture,South,6.0,281.39,1688.34
+ORD000479,2023-09-23,OmegaChair,Furniture,North,5.0,484.96,2424.8
+ORD000480,2023-04-11,IotaLamp,Home,East,3.0,266.32,798.96
+ORD000481,2023-11-17,OmegaChair,Furniture,North,9.0,318.41,2865.69
+ORD000482,2023-11-25,GammaHeadset,Accessories,South,3.0,350.92,1052.76
+ORD000483,2023-12-04,KappaMug,Home,East,10.0,232.73,2327.3
+ORD000484,2023-01-22,AlphaPhone,Electronics,North,1.0,317.5,317.5
+ORD000485,2023-11-25,KappaMug,Home,East,4.0,296.31,1185.24
+ORD000486,2023-10-20,ZetaNotebook,Office Supplies,North,8.0,451.57,3612.56
+ORD000487,2023-11-18,IotaLamp,Home,East,5.0,32.27,161.35
+ORD000488,2023-09-05,DeltaCharger,Accessories,West,5.0,147.67,738.35
+ORD000489,2023-08-21,BetaLaptop,Electronics,North,3.0,475.7,1427.1
+ORD000490,2023-08-14,ZetaNotebook,Office Supplies,West,8.0,446.23,3569.84
+ORD000491,2023-04-15,SigmaDesk,Furniture,South,6.0,233.27,1399.62
+ORD000492,2023-06-13,SigmaDesk,Furniture,West,3.0,313.86,941.58
+ORD000493,2023-07-09,IotaLamp,Home,North,6.0,145.92,875.52
+ORD000494,2023-05-04,ThetaPen,Office Supplies,North,5.0,102.18,510.9
+ORD000495,2023-08-19,DeltaCharger,Accessories,South,2.0,237.21,474.42
+ORD000496,2023-01-26,OmegaChair,Furniture,West,10.0,183.14,1831.4
+ORD000497,2023-08-03,DeltaCharger,Accessories,South,6.0,295.99,1775.94
+ORD000498,2023-10-23,SigmaDesk,Furniture,South,3.0,48.09,144.27
+ORD000499,2023-09-13,IotaLamp,Home,West,8.0,487.45,3899.6
+ORD000500,2023-06-07,ThetaPen,Office Supplies,North,2.0,493.24,986.48
+ORD000501,2023-07-21,IotaLamp,Home,West,4.0,352.1,1408.4
+ORD000502,2023-04-21,KappaMug,Home,East,1.0,272.69,272.69
+ORD000503,2023-01-26,OmegaChair,Furniture,West,10.0,161.67,1616.7
+ORD000504,2023-12-01,ThetaPen,Office Supplies,East,9.0,408.76,3678.84
+ORD000505,2023-01-05,BetaLaptop,Electronics,West,3.0,345.52,1036.56
+ORD000506,2023-05-16,SigmaDesk,Furniture,West,6.0,89.68,538.08
+ORD000507,2023-01-24,ZetaNotebook,Office Supplies,North,10.0,456.35,4563.5
+ORD000508,2023-10-15,DeltaCharger,Accessories,East,9.0,413.04,3717.36
+ORD000509,2023-05-28,BetaLaptop,Electronics,West,9.0,475.4,4278.6
+ORD000510,2023-08-19,IotaLamp,Home,East,10.0,365.6,3656.0
+ORD000511,2023-12-15,KappaMug,Home,North,3.0,310.57,931.71
+ORD000512,2023-02-19,ZetaNotebook,Office Supplies,East,6.0,214.94,1289.64
+ORD000513,2023-10-13,SigmaDesk,Furniture,South,4.0,467.04,1868.16
+ORD000514,2023-11-05,IotaLamp,Home,West,9.0,434.37,3909.33
+ORD000515,2023-01-21,AlphaPhone,Electronics,North,3.0,32.16,96.48
+ORD000516,2023-06-20,ThetaPen,Office Supplies,West,3.0,22.92,68.76
+ORD000517,2023-11-07,IotaLamp,Home,South,6.0,194.47,1166.82
+ORD000518,2023-11-10,SigmaDesk,Furniture,South,7.0,407.17,2850.19
+ORD000519,2023-11-12,OmegaChair,Furniture,East,9.0,493.77,4443.93
+ORD000520,2023-09-18,IotaLamp,Home,West,10.0,83.7,837.0
+ORD000521,2023-06-03,ThetaPen,Office Supplies,North,6.0,301.12,1806.72
+ORD000522,2023-06-19,BetaLaptop,Electronics,West,10.0,196.64,1966.4
+ORD000523,2023-06-07,AlphaPhone,Electronics,West,5.0,485.26,2426.3
+ORD000524,2023-12-02,KappaMug,Home,South,1.0,422.64,422.64
+ORD000525,2023-10-26,ThetaPen,Office Supplies,South,9.0,420.78,3787.02
+ORD000526,2023-11-19,KappaMug,Home,West,3.0,239.66,718.98
+ORD000527,2023-12-15,DeltaCharger,Accessories,North,10.0,213.26,2132.6
+ORD000528,2023-12-25,BetaLaptop,Electronics,South,1.0,143.97,143.97
+ORD000529,2023-08-14,SigmaDesk,Furniture,West,3.0,37.62,112.86
+ORD000530,2023-07-31,DeltaCharger,Accessories,West,9.0,433.71,3903.39
+ORD000531,2023-11-10,ThetaPen,Office Supplies,North,3.0,408.32,1224.96
+ORD000532,2023-09-23,DeltaCharger,Accessories,East,8.0,499.86,3998.88
+ORD000533,2023-09-27,ZetaNotebook,Office Supplies,East,3.0,498.35,1495.05
+ORD000534,2023-08-24,IotaLamp,Home,East,9.0,282.16,2539.44
+ORD000535,2023-07-01,OmegaChair,Furniture,West,4.0,386.8,1547.2
+ORD000536,2023-05-07,OmegaChair,Furniture,East,4.0,472.94,1891.76
+ORD000537,2023-06-02,OmegaChair,Furniture,South,8.0,426.33,3410.64
+ORD000538,2023-06-12,ThetaPen,Office Supplies,East,9.0,131.2,1180.8
+ORD000539,2023-05-21,OmegaChair,Furniture,North,10.0,230.77,2307.7
+ORD000540,2023-12-13,IotaLamp,Home,West,7.0,73.29,513.03
+ORD000541,2023-06-26,GammaHeadset,Accessories,East,1.0,477.49,477.49
+ORD000542,2023-05-28,BetaLaptop,Electronics,East,8.0,307.03,2456.24
+ORD000543,2023-12-02,OmegaChair,Furniture,West,4.0,122.03,488.12
+ORD000544,2023-04-14,IotaLamp,Home,East,9.0,339.13,3052.17
+ORD000545,2023-12-23,OmegaChair,Furniture,South,2.0,312.88,625.76
+ORD000546,2023-11-12,KappaMug,Home,South,4.0,185.5,742.0
+ORD000547,2023-01-26,IotaLamp,Home,South,4.0,65.64,262.56
+ORD000548,2023-01-27,BetaLaptop,Electronics,West,6.0,339.07,2034.42
+ORD000549,2023-08-30,BetaLaptop,Electronics,South,1.0,264.95,264.95
+ORD000550,2023-10-09,GammaHeadset,Accessories,West,8.0,388.44,3107.52
+ORD000551,2023-09-02,DeltaCharger,Accessories,East,6.0,264.88,1589.28
+ORD000552,2023-05-27,AlphaPhone,Electronics,North,10.0,427.57,4275.7
+ORD000553,2023-04-29,IotaLamp,Home,North,3.0,280.43,841.29
+ORD000554,2023-08-02,GammaHeadset,Accessories,North,7.0,284.86,1994.02
+ORD000555,2023-09-11,GammaHeadset,Accessories,East,1.0,439.56,439.56
+ORD000556,2023-01-05,OmegaChair,Furniture,North,6.0,207.71,1246.26
+ORD000557,2023-05-26,ThetaPen,Office Supplies,West,3.0,75.67,227.01
+ORD000558,2023-09-16,ThetaPen,Office Supplies,East,4.0,24.1,96.4
+ORD000559,2023-02-27,SigmaDesk,Furniture,South,8.0,380.02,3040.16
+ORD000560,2023-11-28,OmegaChair,Furniture,South,1.0,313.95,313.95
+ORD000561,2023-06-22,OmegaChair,Furniture,South,3.0,355.0,1065.0
+ORD000562,2023-11-09,ZetaNotebook,Office Supplies,West,9.0,114.35,1029.15
+ORD000563,2023-06-17,BetaLaptop,Electronics,West,2.0,76.82,153.64
+ORD000564,2023-04-05,GammaHeadset,Accessories,West,6.0,17.13,102.78
+ORD000565,2023-05-08,AlphaPhone,Electronics,East,7.0,181.79,1272.53
+ORD000566,2023-05-01,ThetaPen,Office Supplies,East,6.0,299.06,1794.36
+ORD000567,2023-06-04,KappaMug,Home,North,5.0,202.2,1011.0
+ORD000568,2023-12-01,SigmaDesk,Furniture,South,1.0,224.36,224.36
+ORD000569,2023-12-08,BetaLaptop,Electronics,West,5.0,453.04,2265.2
+ORD000570,2023-03-23,ZetaNotebook,Office Supplies,East,2.0,180.65,361.3
+ORD000571,2023-11-24,OmegaChair,Furniture,East,10.0,261.85,2618.5
+ORD000572,2023-04-24,DeltaCharger,Accessories,South,8.0,393.99,3151.92
+ORD000573,2023-03-20,ThetaPen,Office Supplies,East,7.0,204.31,1430.17
+ORD000574,2023-12-26,IotaLamp,Home,West,9.0,314.82,2833.38
+ORD000575,2023-12-07,DeltaCharger,Accessories,South,10.0,432.56,4325.6
+ORD000576,2023-02-11,IotaLamp,Home,West,9.0,475.27,4277.43
+ORD000577,2023-12-27,SigmaDesk,Furniture,North,10.0,82.07,820.7
+ORD000578,2023-02-27,AlphaPhone,Electronics,South,10.0,464.03,4640.3
+ORD000579,2023-10-02,GammaHeadset,Accessories,South,6.0,251.14,1506.84
+ORD000580,2023-09-24,ThetaPen,Office Supplies,North,4.0,136.54,546.16
+ORD000581,2023-10-26,ThetaPen,Office Supplies,North,,234.98,2114.82
+ORD000582,2023-08-17,AlphaPhone,Electronics,West,3.0,490.22,1470.66
+ORD000583,2023-09-20,ZetaNotebook,Office Supplies,West,10.0,251.38,2513.8
+ORD000584,2023-01-30,IotaLamp,Home,West,5.0,171.09,855.45
+ORD000585,2023-01-12,ZetaNotebook,Office Supplies,East,1.0,320.37,320.37
+ORD000586,2023-04-22,KappaMug,Home,North,1.0,127.67,127.67
+ORD000587,2023-08-05,SigmaDesk,Furniture,North,9.0,47.17,424.53
+ORD000588,2023-01-31,BetaLaptop,Electronics,West,1.0,73.15,73.15
+ORD000589,2023-05-27,ZetaNotebook,Office Supplies,South,3.0,72.74,218.22
+ORD000590,2023-11-25,ZetaNotebook,Office Supplies,East,7.0,84.43,591.01
+ORD000591,2023-08-18,ZetaNotebook,Office Supplies,West,2.0,78.03,156.06
+ORD000592,2023-12-16,IotaLamp,Home,South,6.0,324.03,1944.18
+ORD000593,2023-03-02,GammaHeadset,Accessories,West,9.0,99.12,892.08
+ORD000594,2023-03-07,DeltaCharger,Accessories,North,1.0,179.38,179.38
+ORD000595,2023-06-02,ThetaPen,Office Supplies,West,9.0,449.43,4044.87
+ORD000596,2023-07-14,DeltaCharger,Accessories,South,8.0,242.24,1937.92
+ORD000597,2023-06-27,GammaHeadset,Accessories,East,4.0,337.1,1348.4
+ORD000598,2023-02-27,AlphaPhone,Electronics,West,10.0,94.44,944.4
+ORD000599,2023-01-09,DeltaCharger,Accessories,South,2.0,104.22,208.44
+ORD000600,2023-02-21,KappaMug,Home,North,8.0,30.03,240.24
+ORD000601,2023-11-03,AlphaPhone,Electronics,South,1.0,92.78,92.78
+ORD000602,2023-07-25,ThetaPen,Office Supplies,South,9.0,146.51,1318.59
+ORD000603,2023-04-22,AlphaPhone,Electronics,South,9.0,96.74,870.66
+ORD000604,2023-05-29,DeltaCharger,Accessories,East,10.0,53.46,534.6
+ORD000605,2023-11-03,SigmaDesk,Furniture,South,5.0,69.11,345.55
+ORD000606,2023-03-15,IotaLamp,Home,South,7.0,235.78,1650.46
+ORD000607,2023-06-03,OmegaChair,Furniture,North,9.0,111.1,999.9
+ORD000608,2023-10-30,GammaHeadset,Accessories,West,9.0,188.49,1696.41
+ORD000609,2023-09-11,AlphaPhone,Electronics,East,7.0,256.67,1796.69
+ORD000610,2023-09-26,SigmaDesk,Furniture,West,7.0,348.29,2438.03
+ORD000611,2023-03-18,OmegaChair,Furniture,West,3.0,29.26,87.78
+ORD000612,2023-10-03,ThetaPen,Office Supplies,South,4.0,401.71,1606.84
+ORD000613,2023-06-03,GammaHeadset,Accessories,West,1.0,317.67,317.67
+ORD000614,2023-10-15,ZetaNotebook,Office Supplies,West,9.0,50.06,450.54
+ORD000615,2023-09-29,GammaHeadset,Accessories,West,4.0,438.05,1752.2
+ORD000616,2023-05-11,DeltaCharger,Accessories,East,2.0,461.23,922.46
+ORD000617,2023-08-19,SigmaDesk,Furniture,North,9.0,39.93,359.37
+ORD000618,2023-04-08,AlphaPhone,Electronics,East,7.0,145.67,1019.69
+ORD000619,2023-12-11,KappaMug,Home,North,2.0,405.04,810.08
+ORD000620,2023-04-07,KappaMug,Home,South,8.0,376.65,3013.2
+ORD000621,2023-04-17,SigmaDesk,Furniture,East,1.0,100.42,100.42
+ORD000622,2023-04-19,DeltaCharger,Accessories,North,8.0,112.58,900.64
+ORD000623,2023-05-05,KappaMug,Home,South,7.0,191.53,1340.71
+ORD000624,2023-05-03,IotaLamp,Home,East,5.0,247.42,1237.1
+ORD000625,2023-07-14,ThetaPen,Office Supplies,East,5.0,312.94,1564.7
+ORD000626,2023-05-14,SigmaDesk,Furniture,West,8.0,190.77,1526.16
+ORD000627,2023-02-20,ThetaPen,Office Supplies,East,4.0,236.64,946.56
+ORD000628,2023-07-09,SigmaDesk,Furniture,West,1.0,376.26,376.26
+ORD000629,2023-10-16,DeltaCharger,Accessories,South,1.0,27.97,27.97
+ORD000630,2023-05-14,IotaLamp,Home,West,5.0,133.69,668.45
+ORD000631,2023-03-20,DeltaCharger,Accessories,East,4.0,359.54,1438.16
+ORD000632,2023-07-14,KappaMug,Home,South,8.0,448.65,3589.2
+ORD000633,2023-10-09,SigmaDesk,Furniture,East,8.0,260.72,2085.76
+ORD000634,2023-11-25,ThetaPen,Office Supplies,West,3.0,270.74,812.22
+ORD000635,2023-06-30,GammaHeadset,Accessories,South,9.0,62.51,562.59
+ORD000636,2023-09-08,GammaHeadset,Accessories,North,9.0,229.23,2063.07
+ORD000637,2023-01-18,BetaLaptop,Electronics,North,1.0,270.98,270.98
+ORD000638,2023-07-31,GammaHeadset,Accessories,South,2.0,128.81,257.62
+ORD000639,2023-12-29,GammaHeadset,Accessories,North,4.0,141.93,567.72
+ORD000640,2023-09-16,ThetaPen,Office Supplies,East,1.0,194.87,194.87
+ORD000641,2023-11-13,KappaMug,Home,West,8.0,19.83,158.64
+ORD000642,2023-01-09,AlphaPhone,Electronics,West,1.0,167.82,167.82
+ORD000643,2023-01-09,IotaLamp,Home,East,9.0,113.61,1022.49
+ORD000644,2023-05-27,AlphaPhone,Electronics,West,3.0,170.47,511.41
+ORD000645,2023-02-24,BetaLaptop,Electronics,South,4.0,68.68,274.72
+ORD000646,2023-04-09,KappaMug,Home,East,6.0,446.36,2678.16
+ORD000647,2023-05-17,ZetaNotebook,Office Supplies,North,6.0,300.86,1805.16
+ORD000648,2023-07-27,ThetaPen,Office Supplies,South,4.0,342.76,1371.04
+ORD000649,2023-06-03,BetaLaptop,Electronics,North,2.0,396.69,793.38
+ORD000650,2023-07-27,ZetaNotebook,Office Supplies,West,9.0,254.24,2288.16
+ORD000651,2023-09-01,AlphaPhone,Electronics,North,3.0,52.59,157.77
+ORD000652,2023-02-12,ThetaPen,Office Supplies,West,6.0,273.18,1639.08
+ORD000653,2023-10-17,BetaLaptop,Electronics,North,4.0,297.55,1190.2
+ORD000654,2023-04-19,KappaMug,Home,West,5.0,375.27,1876.35
+ORD000655,2023-01-24,BetaLaptop,Electronics,East,9.0,221.51,1993.59
+ORD000656,2023-10-16,AlphaPhone,Electronics,South,6.0,72.51,435.06
+ORD000657,2023-01-09,DeltaCharger,Accessories,South,7.0,149.05,1043.35
+ORD000658,2023-02-09,OmegaChair,Furniture,South,10.0,187.91,1879.1
+ORD000659,2023-05-04,KappaMug,Home,West,9.0,326.5,2938.5
+ORD000660,2023-06-19,ZetaNotebook,Office Supplies,South,2.0,289.68,579.36
+ORD000661,2023-09-14,SigmaDesk,Furniture,North,2.0,184.49,368.98
+ORD000662,2023-08-12,DeltaCharger,Accessories,North,6.0,493.39,2960.34
+ORD000663,2023-11-06,KappaMug,Home,West,6.0,306.83,1840.98
+ORD000664,2023-01-16,OmegaChair,Furniture,West,8.0,126.24,1009.92
+ORD000665,2023-04-27,SigmaDesk,Furniture,West,7.0,59.87,419.09
+ORD000666,2023-04-06,KappaMug,Home,West,2.0,84.9,169.8
+ORD000667,2023-11-13,OmegaChair,Furniture,South,2.0,130.52,261.04
+ORD000668,2023-02-12,OmegaChair,Furniture,South,7.0,88.73,621.11
+ORD000669,2023-12-31,GammaHeadset,Accessories,West,6.0,101.42,608.52
+ORD000670,2023-07-04,BetaLaptop,Electronics,North,1.0,149.7,149.7
+ORD000671,2023-06-07,ThetaPen,Office Supplies,East,5.0,94.95,474.75
+ORD000672,2023-02-22,GammaHeadset,Accessories,North,3.0,449.42,1348.26
+ORD000673,2023-08-09,ThetaPen,Office Supplies,West,2.0,49.31,98.62
+ORD000674,2023-01-14,BetaLaptop,Electronics,East,9.0,267.01,2403.09
+ORD000675,2023-02-17,KappaMug,Home,East,7.0,211.09,1477.63
+ORD000676,2023-01-07,OmegaChair,Furniture,West,7.0,491.37,3439.59
+ORD000677,2023-02-13,IotaLamp,Home,South,10.0,64.9,649.0
+ORD000678,2023-09-24,GammaHeadset,Accessories,West,3.0,204.95,614.85
+ORD000679,2023-03-13,OmegaChair,Furniture,East,5.0,485.04,2425.2
+ORD000680,2023-09-10,GammaHeadset,Accessories,North,3.0,434.1,1302.3
+ORD000681,2023-08-11,OmegaChair,Furniture,West,5.0,410.37,2051.85
+ORD000682,2023-09-05,BetaLaptop,Electronics,East,5.0,136.37,681.85
+ORD000683,2023-05-07,ThetaPen,Office Supplies,South,8.0,93.73,749.84
+ORD000684,2023-02-24,GammaHeadset,Accessories,East,1.0,337.64,337.64
+ORD000685,2023-07-22,SigmaDesk,Furniture,West,6.0,465.39,2792.34
+ORD000686,2023-08-14,SigmaDesk,Furniture,West,10.0,282.81,2828.1
+ORD000687,2023-03-11,OmegaChair,Furniture,East,10.0,290.09,2900.9
+ORD000688,2023-12-22,DeltaCharger,Accessories,West,6.0,147.19,883.14
+ORD000689,2023-04-01,ZetaNotebook,Office Supplies,East,5.0,387.05,1935.25
+ORD000690,2023-12-22,ThetaPen,Office Supplies,South,6.0,101.65,609.9
+ORD000691,2023-07-12,OmegaChair,Furniture,West,6.0,168.6,1011.6
+ORD000692,2023-02-28,KappaMug,Home,South,10.0,218.46,2184.6
+ORD000693,2023-10-07,GammaHeadset,Accessories,North,8.0,258.73,2069.84
+ORD000694,2023-12-29,DeltaCharger,Accessories,West,5.0,128.78,643.9
+ORD000695,2023-12-21,BetaLaptop,Electronics,West,8.0,66.27,530.16
+ORD000696,2023-03-13,OmegaChair,Furniture,South,5.0,309.2,1546.0
+ORD000697,2023-12-04,GammaHeadset,Accessories,West,7.0,151.43,1060.01
+ORD000698,2023-02-07,ThetaPen,Office Supplies,West,10.0,294.81,2948.1
+ORD000699,2023-07-25,IotaLamp,Home,West,9.0,85.64,770.76
+ORD000700,2023-01-19,SigmaDesk,Furniture,North,2.0,245.76,491.52
+ORD000701,2023-05-08,SigmaDesk,Furniture,South,10.0,270.97,2709.7
+ORD000702,2023-01-23,KappaMug,Home,West,6.0,35.39,212.34
+ORD000703,2023-08-09,BetaLaptop,Electronics,North,2.0,174.94,349.88
+ORD000704,2023-05-13,DeltaCharger,Accessories,South,8.0,75.86,606.88
+ORD000705,2023-07-11,ZetaNotebook,Office Supplies,West,10.0,41.05,410.5
+ORD000706,2023-12-20,IotaLamp,Home,South,6.0,495.08,2970.48
+ORD000707,2023-01-13,ThetaPen,Office Supplies,North,5.0,167.95,839.75
+ORD000708,2023-08-01,BetaLaptop,Electronics,North,3.0,406.84,1220.52
+ORD000709,2023-06-28,OmegaChair,Furniture,East,8.0,134.77,1078.16
+ORD000710,2023-04-16,IotaLamp,Home,West,6.0,343.94,2063.64
+ORD000711,2023-09-01,BetaLaptop,Electronics,West,8.0,382.51,3060.08
+ORD000712,2023-06-13,BetaLaptop,Electronics,East,1.0,301.86,301.86
+ORD000713,2023-12-30,BetaLaptop,Electronics,North,6.0,241.07,1446.42
+ORD000714,2023-11-28,BetaLaptop,Electronics,South,4.0,211.8,847.2
+ORD000715,2023-09-22,GammaHeadset,Accessories,South,6.0,180.95,1085.7
+ORD000716,2023-10-14,ZetaNotebook,Office Supplies,West,4.0,465.47,1861.88
+ORD000717,2023-07-27,GammaHeadset,Accessories,South,7.0,417.0,2919.0
+ORD000718,2023-07-22,AlphaPhone,Electronics,South,8.0,482.86,3862.88
+ORD000719,2023-10-31,ZetaNotebook,Office Supplies,West,1.0,70.91,70.91
+ORD000720,2023-12-27,DeltaCharger,Accessories,South,5.0,368.13,1840.65
+ORD000721,2023-12-27,BetaLaptop,Electronics,North,9.0,469.79,4228.11
+ORD000722,2023-04-06,SigmaDesk,Furniture,East,4.0,98.8,395.2
+ORD000723,2023-08-23,BetaLaptop,Electronics,East,8.0,42.58,340.64
+ORD000724,2023-09-28,SigmaDesk,Furniture,West,10.0,373.15,3731.5
+ORD000725,2023-07-20,KappaMug,Home,North,6.0,291.49,1748.94
+ORD000726,2023-06-30,ThetaPen,Office Supplies,South,5.0,422.5,2112.5
+ORD000727,2023-11-11,KappaMug,Home,North,3.0,78.49,235.47
+ORD000728,2023-06-10,BetaLaptop,Electronics,South,5.0,399.68,1998.4
+ORD000729,2023-03-01,GammaHeadset,Accessories,East,3.0,108.8,326.4
+ORD000730,2023-09-19,ZetaNotebook,Office Supplies,West,10.0,90.19,901.9
+ORD000731,2023-03-12,KappaMug,Home,West,7.0,90.49,633.43
+ORD000732,2023-04-06,ThetaPen,Office Supplies,South,9.0,409.14,3682.26
+ORD000733,2023-03-27,ThetaPen,Office Supplies,East,3.0,335.95,1007.85
+ORD000734,2023-04-06,SigmaDesk,Furniture,West,10.0,266.3,2663.0
+ORD000735,2023-01-28,SigmaDesk,Furniture,North,8.0,185.83,1486.64
+ORD000736,2023-03-11,DeltaCharger,Accessories,West,9.0,439.83,3958.47
+ORD000737,2023-09-16,ThetaPen,Office Supplies,West,8.0,202.3,1618.4
+ORD000738,2023-08-01,ThetaPen,Office Supplies,West,3.0,410.13,1230.39
+ORD000739,2023-02-12,KappaMug,Home,North,4.0,225.18,900.72
+ORD000740,2023-05-30,AlphaPhone,Electronics,East,4.0,194.7,778.8
+ORD000741,2023-10-03,OmegaChair,Furniture,South,8.0,236.71,1893.68
+ORD000742,2023-10-17,ThetaPen,Office Supplies,North,10.0,157.68,1576.8
+ORD000743,2023-02-28,OmegaChair,Furniture,East,9.0,376.33,3386.97
+ORD000744,2023-01-22,ThetaPen,Office Supplies,South,7.0,256.33,1794.31
+ORD000745,2023-02-22,DeltaCharger,Accessories,East,1.0,123.78,123.78
+ORD000746,2023-08-19,OmegaChair,Furniture,East,2.0,450.79,901.58
+ORD000747,2023-08-13,BetaLaptop,Electronics,South,4.0,198.11,792.44
+ORD000748,2023-10-29,SigmaDesk,Furniture,West,3.0,276.34,829.02
+ORD000749,2023-11-12,GammaHeadset,Accessories,South,4.0,454.17,1816.68
+ORD000750,2023-01-31,KappaMug,Home,East,9.0,315.88,2842.92
+ORD000751,2023-05-24,KappaMug,Home,South,6.0,67.28,403.68
+ORD000752,2023-12-27,OmegaChair,Furniture,East,10.0,470.52,4705.2
+ORD000753,2023-05-17,IotaLamp,Home,North,3.0,317.58,952.74
+ORD000754,2023-07-30,AlphaPhone,Electronics,East,3.0,174.1,522.3
+ORD000755,2023-12-26,GammaHeadset,Accessories,South,3.0,78.24,234.72
+ORD000756,2023-12-31,SigmaDesk,Furniture,South,7.0,399.07,2793.49
+ORD000757,2023-09-08,GammaHeadset,Accessories,East,7.0,313.84,2196.88
+ORD000758,2023-07-12,ThetaPen,Office Supplies,North,2.0,271.4,542.8
+ORD000759,2023-07-26,IotaLamp,Home,East,6.0,448.01,2688.06
+ORD000760,2023-08-21,ThetaPen,Office Supplies,East,10.0,396.41,3964.1
+ORD000761,2023-01-02,BetaLaptop,Electronics,West,6.0,84.32,505.92
+ORD000762,2023-02-02,IotaLamp,Home,West,4.0,162.74,650.96
+ORD000763,2023-08-08,DeltaCharger,Accessories,West,5.0,131.76,658.8
+ORD000764,2023-06-15,OmegaChair,Furniture,East,9.0,374.53,3370.77
+ORD000765,2023-10-23,GammaHeadset,Accessories,West,6.0,26.43,158.58
+ORD000766,2023-12-16,AlphaPhone,Electronics,North,2.0,289.25,578.5
+ORD000767,2023-11-17,ThetaPen,Office Supplies,North,2.0,383.6,767.2
+ORD000768,2023-03-22,ThetaPen,Office Supplies,West,1.0,439.62,439.62
+ORD000769,2023-08-08,DeltaCharger,Accessories,South,5.0,177.62,888.1
+ORD000770,2023-03-23,OmegaChair,Furniture,North,6.0,412.42,2474.52
+ORD000771,2023-05-09,BetaLaptop,Electronics,East,3.0,64.21,192.63
+ORD000772,2023-01-27,ZetaNotebook,Office Supplies,East,4.0,424.76,1699.04
+ORD000773,2023-08-08,BetaLaptop,Electronics,North,1.0,72.47,72.47
+ORD000774,2023-04-20,ThetaPen,Office Supplies,North,3.0,204.67,614.01
+ORD000775,2023-10-31,DeltaCharger,Accessories,West,1.0,400.67,400.67
+ORD000776,2023-01-05,SigmaDesk,Furniture,North,7.0,83.46,584.22
+ORD000777,2023-12-22,GammaHeadset,Accessories,West,2.0,122.33,244.66
+ORD000778,2023-04-28,ZetaNotebook,Office Supplies,North,2.0,363.9,727.8
+ORD000779,2023-02-22,SigmaDesk,Furniture,East,5.0,,1814.1
+ORD000780,2023-03-12,ZetaNotebook,Office Supplies,South,3.0,324.16,972.48
+ORD000781,2023-02-05,IotaLamp,Home,North,10.0,350.03,3500.3
+ORD000782,2023-11-29,GammaHeadset,Accessories,West,6.0,275.93,1655.58
+ORD000783,2023-04-20,GammaHeadset,Accessories,West,10.0,133.38,1333.8
+ORD000784,2023-12-18,ThetaPen,Office Supplies,South,2.0,179.39,358.78
+ORD000785,2023-02-21,GammaHeadset,Accessories,North,10.0,98.98,989.8
+ORD000786,2023-07-16,SigmaDesk,Furniture,West,6.0,455.14,2730.84
+ORD000787,2023-03-13,DeltaCharger,Accessories,East,2.0,295.86,591.72
+ORD000788,2023-05-08,IotaLamp,Home,East,1.0,206.42,206.42
+ORD000789,2023-12-04,OmegaChair,Furniture,South,9.0,236.38,2127.42
+ORD000790,2023-11-07,IotaLamp,Home,South,7.0,474.17,3319.19
+ORD000791,2023-06-01,AlphaPhone,Electronics,South,8.0,85.14,681.12
+ORD000792,2023-07-17,BetaLaptop,Electronics,South,8.0,297.25,2378.0
+ORD000793,2023-11-23,KappaMug,Home,North,9.0,257.89,2321.01
+ORD000794,2023-01-07,SigmaDesk,Furniture,East,3.0,309.61,928.83
+ORD000795,2023-07-18,KappaMug,Home,West,6.0,18.87,113.22
+ORD000796,2023-10-07,GammaHeadset,Accessories,West,2.0,437.34,874.68
+ORD000797,2023-01-09,KappaMug,Home,North,1.0,466.74,466.74
+ORD000798,2023-05-15,DeltaCharger,Accessories,North,1.0,286.92,286.92
+ORD000799,2023-07-23,IotaLamp,Home,East,9.0,351.36,3162.24
+ORD000800,2023-08-01,ZetaNotebook,Office Supplies,West,2.0,462.02,924.04
+ORD000801,2023-11-24,IotaLamp,Home,South,5.0,356.55,1782.75
+ORD000802,2023-02-12,OmegaChair,Furniture,North,9.0,84.74,762.66
+ORD000803,2023-04-15,GammaHeadset,Accessories,East,7.0,292.38,2046.66
+ORD000804,2023-10-28,BetaLaptop,Electronics,East,7.0,307.29,2151.03
+ORD000805,2023-05-03,AlphaPhone,Electronics,South,2.0,217.82,435.64
+ORD000806,2023-08-11,BetaLaptop,Electronics,West,10.0,370.86,3708.6
+ORD000807,2023-11-08,AlphaPhone,Electronics,East,3.0,467.84,1403.52
+ORD000808,2023-03-03,AlphaPhone,Electronics,South,1.0,463.53,463.53
+ORD000809,2023-03-25,ThetaPen,Office Supplies,East,9.0,230.91,2078.19
+ORD000810,2023-09-22,OmegaChair,Furniture,South,6.0,65.49,392.94
+ORD000811,2023-03-06,OmegaChair,Furniture,North,1.0,492.57,492.57
+ORD000812,2023-06-21,ZetaNotebook,Office Supplies,East,9.0,421.06,3789.54
+ORD000813,2023-02-02,OmegaChair,Furniture,North,8.0,71.08,568.64
+ORD000814,2023-08-22,IotaLamp,Home,East,1.0,461.21,461.21
+ORD000815,2023-09-13,KappaMug,Home,South,6.0,436.25,2617.5
+ORD000816,2023-03-22,OmegaChair,Furniture,North,10.0,264.23,2642.3
+ORD000817,2023-12-12,BetaLaptop,Electronics,South,9.0,299.72,2697.48
+ORD000818,2023-01-02,AlphaPhone,Electronics,North,4.0,205.51,822.04
+ORD000819,2023-01-24,ThetaPen,Office Supplies,East,7.0,36.83,257.81
+ORD000820,2023-03-18,GammaHeadset,Accessories,North,9.0,174.25,1568.25
+ORD000821,2023-12-02,ZetaNotebook,Office Supplies,South,6.0,403.4,2420.4
+ORD000822,2023-05-08,ZetaNotebook,Office Supplies,East,5.0,12.27,61.35
+ORD000823,2023-02-09,KappaMug,Home,East,2.0,173.41,346.82
+ORD000824,2023-09-15,AlphaPhone,Electronics,South,4.0,205.1,820.4
+ORD000825,2023-09-22,AlphaPhone,Electronics,West,2.0,273.32,546.64
+ORD000826,2023-08-27,OmegaChair,Furniture,East,6.0,460.73,2764.38
+ORD000827,2023-02-14,IotaLamp,Home,West,1.0,179.71,179.71
+ORD000828,2023-07-08,DeltaCharger,Accessories,East,10.0,180.01,1800.1
+ORD000829,2023-06-05,KappaMug,Home,South,8.0,371.38,2971.04
+ORD000830,2023-07-08,KappaMug,Home,West,4.0,231.59,926.36
+ORD000831,2023-10-07,DeltaCharger,Accessories,South,1.0,120.06,120.06
+ORD000832,2023-07-29,AlphaPhone,Electronics,South,9.0,231.7,2085.3
+ORD000833,2023-06-27,AlphaPhone,Electronics,East,1.0,79.02,79.02
+ORD000834,2023-12-03,ZetaNotebook,Office Supplies,East,2.0,96.43,192.86
+ORD000835,2023-04-16,IotaLamp,Home,South,7.0,254.2,1779.4
+ORD000836,2023-09-09,AlphaPhone,Electronics,South,5.0,215.27,1076.35
+ORD000837,2023-02-17,AlphaPhone,Electronics,South,9.0,458.27,4124.43
+ORD000838,2023-07-31,SigmaDesk,Furniture,West,2.0,187.57,375.14
+ORD000839,2023-10-25,BetaLaptop,Electronics,South,7.0,294.49,2061.43
+ORD000840,2023-02-08,KappaMug,Home,North,7.0,319.81,2238.67
+ORD000841,2023-12-06,GammaHeadset,Accessories,South,5.0,16.42,82.1
+ORD000842,2023-05-14,SigmaDesk,Furniture,West,6.0,335.13,2010.78
+ORD000843,2023-06-12,ThetaPen,Office Supplies,East,4.0,97.24,388.96
+ORD000844,2023-02-08,DeltaCharger,Accessories,South,10.0,480.92,4809.2
+ORD000845,2023-02-25,GammaHeadset,Accessories,North,3.0,82.84,248.52
+ORD000846,2023-08-19,ThetaPen,Office Supplies,East,7.0,213.17,1492.19
+ORD000847,2023-03-03,IotaLamp,Home,East,4.0,51.82,207.28
+ORD000848,2023-08-20,OmegaChair,Furniture,West,5.0,498.47,2492.35
+ORD000849,2023-03-03,BetaLaptop,Electronics,South,5.0,256.08,1280.4
+ORD000850,2023-12-27,KappaMug,Home,North,4.0,301.74,1206.96
+ORD000851,2023-06-17,GammaHeadset,Accessories,North,4.0,42.87,171.48
+ORD000852,2023-07-02,ZetaNotebook,Office Supplies,North,5.0,377.48,1887.4
+ORD000853,2023-05-14,GammaHeadset,Accessories,North,7.0,112.85,789.95
+ORD000854,2023-08-20,IotaLamp,Home,South,2.0,450.05,900.1
+ORD000855,2023-08-25,BetaLaptop,Electronics,South,2.0,110.52,221.04
+ORD000856,2023-01-07,AlphaPhone,Electronics,South,3.0,103.44,310.32
+ORD000857,2023-04-12,ZetaNotebook,Office Supplies,East,2.0,27.91,55.82
+ORD000858,2023-10-26,KappaMug,Home,East,2.0,241.31,482.62
+ORD000859,2023-01-12,BetaLaptop,Electronics,South,8.0,286.77,2294.16
+ORD000860,2023-03-07,BetaLaptop,Electronics,East,2.0,42.2,84.4
+ORD000861,2023-01-22,ThetaPen,Office Supplies,North,3.0,390.01,1170.03
+ORD000862,2023-10-21,ZetaNotebook,Office Supplies,West,8.0,232.11,1856.88
+ORD000863,2023-01-16,ZetaNotebook,Office Supplies,West,3.0,266.95,800.85
+ORD000864,2023-07-01,DeltaCharger,Accessories,South,5.0,225.97,1129.85
+ORD000865,2023-05-24,ThetaPen,Office Supplies,South,1.0,206.37,206.37
+ORD000866,2023-11-11,KappaMug,Home,South,5.0,284.22,1421.1
+ORD000867,2023-09-13,ZetaNotebook,Office Supplies,West,1.0,86.07,86.07
+ORD000868,2023-02-14,OmegaChair,Furniture,West,3.0,99.14,297.42
+ORD000869,2023-08-03,DeltaCharger,Accessories,South,9.0,432.27,3890.43
+ORD000870,2023-01-10,ZetaNotebook,Office Supplies,East,8.0,473.6,3788.8
+ORD000871,2023-10-06,ThetaPen,Office Supplies,East,10.0,192.92,1929.2
+ORD000872,2023-09-15,SigmaDesk,Furniture,West,5.0,142.66,713.3
+ORD000873,2023-04-03,AlphaPhone,Electronics,East,10.0,325.56,3255.6
+ORD000874,2023-04-23,AlphaPhone,Electronics,East,1.0,210.28,210.28
+ORD000875,2023-08-30,IotaLamp,Home,East,10.0,22.44,224.4
+ORD000876,2023-04-30,GammaHeadset,Accessories,North,4.0,86.51,346.04
+ORD000877,2023-12-03,DeltaCharger,Accessories,East,9.0,360.83,3247.47
+ORD000878,2023-01-29,DeltaCharger,Accessories,West,6.0,332.87,1997.22
+ORD000879,2023-03-30,GammaHeadset,Accessories,South,10.0,23.28,232.8
+ORD000880,2023-06-12,SigmaDesk,Furniture,North,6.0,118.77,712.62
+ORD000881,2023-10-18,KappaMug,Home,South,10.0,123.23,1232.3
+ORD000882,2023-04-07,ThetaPen,Office Supplies,East,3.0,339.23,1017.69
+ORD000883,2023-09-09,AlphaPhone,Electronics,North,1.0,19.66,19.66
+ORD000884,2023-04-30,KappaMug,Home,South,1.0,61.01,61.01
+ORD000885,2023-09-27,ThetaPen,Office Supplies,North,6.0,401.96,2411.76
+ORD000886,2023-11-11,DeltaCharger,Accessories,South,6.0,97.49,584.94
+ORD000887,2023-04-01,SigmaDesk,Furniture,North,1.0,329.85,329.85
+ORD000888,2023-03-17,KappaMug,Home,South,2.0,126.71,253.42
+ORD000889,2023-09-27,SigmaDesk,Furniture,North,6.0,58.73,352.38
+ORD000890,2023-12-27,ZetaNotebook,Office Supplies,North,6.0,129.15,774.9
+ORD000891,2023-06-04,SigmaDesk,Furniture,South,3.0,363.91,1091.73
+ORD000892,2023-08-12,ThetaPen,Office Supplies,East,3.0,429.29,1287.87
+ORD000893,2023-12-29,IotaLamp,Home,East,4.0,416.81,1667.24
+ORD000894,2023-12-07,KappaMug,Home,South,7.0,204.62,1432.34
+ORD000895,2023-06-07,OmegaChair,Furniture,South,3.0,337.36,1012.08
+ORD000896,2023-01-01,KappaMug,Home,West,10.0,110.44,1104.4
+ORD000897,2023-01-17,GammaHeadset,Accessories,East,10.0,153.64,1536.4
+ORD000898,2023-04-24,KappaMug,Home,North,8.0,449.2,3593.6
+ORD000899,2023-03-14,SigmaDesk,Furniture,North,4.0,16.37,65.48
+ORD000900,2023-06-27,SigmaDesk,Furniture,South,2.0,51.9,103.8
+ORD000901,2023-12-29,SigmaDesk,Furniture,West,1.0,111.86,111.86
+ORD000902,2023-05-16,DeltaCharger,Accessories,South,2.0,23.0,46.0
+ORD000903,2023-06-29,OmegaChair,Furniture,North,1.0,98.9,98.9
+ORD000904,2023-01-25,ZetaNotebook,Office Supplies,West,7.0,295.69,2069.83
+ORD000905,2023-03-27,ZetaNotebook,Office Supplies,West,7.0,216.5,1515.5
+ORD000906,2023-06-29,IotaLamp,Home,West,2.0,447.41,894.82
+ORD000907,2023-09-03,KappaMug,Home,South,3.0,410.55,1231.65
+ORD000908,2023-08-20,BetaLaptop,Electronics,North,5.0,177.49,887.45
+ORD000909,2023-01-11,SigmaDesk,Furniture,East,2.0,137.12,274.24
+ORD000910,2023-02-07,SigmaDesk,Furniture,South,7.0,196.05,1372.35
+ORD000911,2023-03-24,BetaLaptop,Electronics,North,6.0,299.24,1795.44
+ORD000912,2023-11-01,KappaMug,Home,West,1.0,141.35,141.35
+ORD000913,2023-08-09,GammaHeadset,Accessories,West,3.0,315.83,947.49
+ORD000914,2023-01-28,BetaLaptop,Electronics,East,4.0,210.61,842.44
+ORD000915,2023-04-08,ZetaNotebook,Office Supplies,East,5.0,280.5,1402.5
+ORD000916,2023-06-02,DeltaCharger,Accessories,North,1.0,223.7,223.7
+ORD000917,2023-07-21,KappaMug,Home,West,3.0,154.29,462.87
+ORD000918,2023-01-28,SigmaDesk,Furniture,North,7.0,474.74,3323.18
+ORD000919,2023-02-14,OmegaChair,Furniture,West,4.0,384.17,1536.68
+ORD000920,2023-02-19,AlphaPhone,Electronics,South,3.0,78.66,235.98
+ORD000921,2023-11-23,OmegaChair,Furniture,North,8.0,435.55,3484.4
+ORD000922,2023-03-01,OmegaChair,Furniture,West,8.0,248.84,1990.72
+ORD000923,2023-09-08,OmegaChair,Furniture,North,9.0,448.33,4034.97
+ORD000924,2023-07-18,GammaHeadset,Accessories,East,7.0,401.93,2813.51
+ORD000925,2023-07-09,GammaHeadset,Accessories,West,1.0,218.35,218.35
+ORD000926,2023-05-15,ThetaPen,Office Supplies,West,5.0,21.01,105.05
+ORD000927,2023-04-26,OmegaChair,Furniture,North,3.0,141.65,424.95
+ORD000928,2023-12-23,BetaLaptop,Electronics,North,6.0,275.4,1652.4
+ORD000929,2023-10-05,ZetaNotebook,Office Supplies,South,9.0,320.4,2883.6
+ORD000930,2023-02-01,ZetaNotebook,Office Supplies,West,9.0,136.36,1227.24
+ORD000931,2023-12-18,ThetaPen,Office Supplies,South,8.0,78.28,626.24
+ORD000932,2023-06-03,BetaLaptop,Electronics,West,1.0,419.12,419.12
+ORD000933,2023-09-15,KappaMug,Home,South,2.0,492.36,984.72
+ORD000934,2023-08-18,GammaHeadset,Accessories,South,4.0,267.59,1070.36
+ORD000935,2023-04-09,GammaHeadset,Accessories,North,7.0,94.12,658.84
+ORD000936,2023-02-10,ZetaNotebook,Office Supplies,South,3.0,143.43,430.29
+ORD000937,2023-11-01,OmegaChair,Furniture,East,2.0,19.01,38.02
+ORD000938,2023-02-14,ZetaNotebook,Office Supplies,West,9.0,458.01,4122.09
+ORD000939,2023-06-16,OmegaChair,Furniture,West,1.0,67.7,67.7
+ORD000940,2023-12-25,KappaMug,Home,West,2.0,292.49,584.98
+ORD000941,2023-08-01,GammaHeadset,Accessories,South,10.0,144.29,1442.9
+ORD000942,2023-10-29,KappaMug,Home,North,2.0,281.55,563.1
+ORD000943,2023-10-16,BetaLaptop,Electronics,East,9.0,329.2,2962.8
+ORD000944,2023-06-26,ZetaNotebook,Office Supplies,East,7.0,416.57,2915.99
+ORD000945,2023-12-02,ThetaPen,Office Supplies,West,1.0,111.15,111.15
+ORD000946,2023-03-30,OmegaChair,Furniture,West,3.0,15.39,46.17
+ORD000947,2023-11-13,KappaMug,Home,West,1.0,77.07,77.07
+ORD000948,2023-07-22,SigmaDesk,Furniture,South,1.0,451.01,451.01
+ORD000949,2023-09-01,OmegaChair,Furniture,East,1.0,438.21,438.21
+ORD000950,2023-06-22,OmegaChair,Furniture,East,5.0,302.73,1513.65
+ORD000951,2023-09-09,BetaLaptop,Electronics,South,3.0,304.25,912.75
+ORD000952,2023-06-03,ThetaPen,Office Supplies,East,5.0,335.87,1679.35
+ORD000953,2023-08-02,KappaMug,Home,North,4.0,95.93,383.72
+ORD000954,2023-08-15,DeltaCharger,Accessories,West,8.0,458.06,3664.48
+ORD000955,2023-09-22,SigmaDesk,Furniture,North,9.0,215.2,1936.8
+ORD000956,2023-03-23,BetaLaptop,Electronics,East,9.0,197.74,1779.66
+ORD000957,2023-07-26,GammaHeadset,Accessories,North,3.0,264.27,792.81
+ORD000958,2023-04-09,DeltaCharger,Accessories,North,4.0,33.01,132.04
+ORD000959,2023-01-17,ThetaPen,Office Supplies,North,6.0,91.48,548.88
+ORD000960,2023-12-27,DeltaCharger,Accessories,East,6.0,371.64,2229.84
+ORD000961,2023-08-26,IotaLamp,Home,West,2.0,50.57,101.14
+ORD000962,2023-12-15,AlphaPhone,Electronics,South,6.0,305.54,1833.24
+ORD000963,2023-09-08,KappaMug,Home,West,3.0,130.22,390.66
+ORD000964,2023-08-31,KappaMug,Home,East,6.0,200.75,1204.5
+ORD000965,2023-03-25,OmegaChair,Furniture,North,5.0,151.46,757.3
+ORD000966,2023-01-15,ZetaNotebook,Office Supplies,North,3.0,184.28,552.84
+ORD000967,2023-10-20,DeltaCharger,Accessories,South,4.0,362.33,1449.32
+ORD000968,2023-12-13,DeltaCharger,Accessories,East,7.0,155.59,1089.13
+ORD000969,2023-09-20,AlphaPhone,Electronics,North,8.0,287.54,2300.32
+ORD000970,2023-03-09,GammaHeadset,Accessories,North,4.0,243.26,973.04
+ORD000971,2023-05-10,KappaMug,Home,East,5.0,335.2,1676.0
+ORD000972,2023-08-05,ZetaNotebook,Office Supplies,East,8.0,469.05,3752.4
+ORD000973,2023-05-10,DeltaCharger,Accessories,West,5.0,368.96,1844.8
+ORD000974,2023-12-13,IotaLamp,Home,West,10.0,115.32,1153.2
+ORD000975,2023-02-22,AlphaPhone,Electronics,East,9.0,25.28,227.52
+ORD000976,2023-11-28,KappaMug,Home,East,5.0,138.51,692.55
+ORD000977,2023-12-17,BetaLaptop,Electronics,West,2.0,301.59,603.18
+ORD000978,2023-06-22,OmegaChair,Furniture,East,5.0,35.2,176.0
+ORD000979,2023-05-14,OmegaChair,Furniture,South,3.0,253.22,759.66
+ORD000980,2023-09-22,DeltaCharger,Accessories,North,10.0,302.45,3024.5
+ORD000981,2023-07-26,SigmaDesk,Furniture,South,1.0,173.78,173.78
+ORD000982,2023-12-02,ThetaPen,Office Supplies,East,5.0,387.75,1938.75
+ORD000983,2023-08-03,ZetaNotebook,Office Supplies,West,1.0,62.23,62.23
+ORD000984,2023-10-26,KappaMug,Home,South,6.0,46.82,280.92
+ORD000985,2023-04-24,IotaLamp,Home,,6.0,366.81,2200.86
+ORD000986,2023-09-17,OmegaChair,Furniture,South,9.0,252.79,2275.11
+ORD000987,2023-04-03,OmegaChair,Furniture,North,8.0,347.32,2778.56
+ORD000988,2023-03-07,OmegaChair,Furniture,South,6.0,223.07,1338.42
+ORD000989,2023-12-02,BetaLaptop,Electronics,South,6.0,130.74,784.44
+ORD000990,2023-04-25,OmegaChair,Furniture,West,6.0,411.36,2468.16
+ORD000991,2023-07-10,OmegaChair,Furniture,East,8.0,401.71,3213.68
+ORD000992,2023-03-02,ThetaPen,Office Supplies,North,10.0,350.4,3504.0
+ORD000993,2023-10-25,KappaMug,Home,North,8.0,143.35,1146.8
+ORD000994,2023-04-10,IotaLamp,Home,North,7.0,299.21,2094.47
+ORD000995,2023-09-29,OmegaChair,Furniture,West,1.0,186.88,186.88
+ORD000996,2023-03-19,GammaHeadset,Accessories,South,6.0,54.88,329.28
+ORD000997,2023-07-29,KappaMug,Home,West,3.0,459.48,1378.44
+ORD000998,2023-06-11,GammaHeadset,Accessories,North,8.0,77.04,616.32
+ORD000999,2023-06-20,GammaHeadset,Accessories,East,1.0,475.62,475.62
+ORD001000,2023-01-03,ThetaPen,Office Supplies,East,4.0,228.54,914.16
+ORD001001,2023-03-28,KappaMug,Home,South,8.0,100.72,805.76
+ORD001002,2023-02-15,GammaHeadset,Accessories,West,7.0,275.53,1928.71
+ORD001003,2023-07-26,ZetaNotebook,Office Supplies,West,7.0,437.74,3064.18
+ORD001004,2023-01-03,AlphaPhone,Electronics,South,6.0,368.79,2212.74
+ORD001005,2023-01-08,SigmaDesk,Furniture,South,1.0,405.21,405.21
+ORD001006,2023-12-13,AlphaPhone,Electronics,South,4.0,332.8,1331.2
+ORD001007,2023-12-22,SigmaDesk,Furniture,East,3.0,349.22,1047.66
+ORD001008,2023-02-22,ZetaNotebook,Office Supplies,East,3.0,426.11,1278.33
+ORD001009,2023-02-03,AlphaPhone,Electronics,East,5.0,132.34,661.7
+ORD001010,2023-08-22,IotaLamp,Home,East,7.0,249.82,1748.74
+ORD001011,2023-12-18,GammaHeadset,Accessories,East,8.0,118.39,947.12
+ORD001012,2023-07-03,DeltaCharger,Accessories,South,7.0,493.96,3457.72
+ORD001013,2023-01-10,DeltaCharger,Accessories,South,3.0,472.59,1417.77
+ORD001014,2023-04-19,AlphaPhone,Electronics,South,2.0,29.32,58.64
+ORD001015,2023-07-07,AlphaPhone,Electronics,West,5.0,355.73,1778.65
+ORD001016,2023-10-01,KappaMug,Home,North,10.0,463.37,4633.7
+ORD001017,2023-01-25,BetaLaptop,Electronics,North,1.0,98.48,98.48
+ORD001018,2023-12-20,BetaLaptop,Electronics,West,8.0,288.29,2306.32
+ORD001019,2023-07-14,BetaLaptop,Electronics,East,8.0,458.59,3668.72
+ORD001020,2023-12-26,GammaHeadset,Accessories,South,1.0,26.63,26.63
+ORD001021,2023-06-04,ZetaNotebook,Office Supplies,North,9.0,351.74,3165.66
+ORD001022,2023-05-19,KappaMug,Home,South,7.0,155.7,1089.9
+ORD001023,2023-02-23,IotaLamp,Home,North,5.0,462.95,2314.75
+ORD001024,2023-02-28,BetaLaptop,Electronics,West,4.0,485.82,1943.28
+ORD001025,2023-11-08,DeltaCharger,Accessories,East,9.0,472.69,4254.21
+ORD001026,2023-04-14,SigmaDesk,Furniture,West,5.0,242.36,1211.8
+ORD001027,2023-03-24,AlphaPhone,Electronics,West,4.0,432.4,1729.6
+ORD001028,2023-12-19,ThetaPen,Office Supplies,East,4.0,423.83,1695.32
+ORD001029,2023-01-02,AlphaPhone,Electronics,North,2.0,166.36,332.72
+ORD001030,2023-10-21,ThetaPen,Office Supplies,South,2.0,416.17,832.34
+ORD001031,2023-09-19,BetaLaptop,Electronics,North,5.0,28.13,140.65
+ORD001032,2023-11-26,DeltaCharger,Accessories,West,5.0,302.17,1510.85
+ORD001033,2023-05-16,ThetaPen,Office Supplies,North,2.0,122.7,245.4
+ORD001034,2023-03-31,AlphaPhone,Electronics,East,6.0,69.08,414.48
+ORD001035,2023-12-13,SigmaDesk,Furniture,West,2.0,47.71,95.42
+ORD001036,2023-02-18,AlphaPhone,Electronics,North,3.0,351.18,1053.54
+ORD001037,2023-12-06,GammaHeadset,Accessories,East,6.0,176.54,1059.24
+ORD001038,2023-08-13,KappaMug,Home,East,2.0,365.14,730.28
+ORD001039,2023-07-10,SigmaDesk,Furniture,South,2.0,42.02,84.04
+ORD001040,2023-07-25,ZetaNotebook,Office Supplies,West,5.0,164.49,822.45
+ORD001041,2023-07-17,ThetaPen,Office Supplies,West,3.0,274.35,823.05
+ORD001042,2023-02-27,GammaHeadset,Accessories,North,3.0,397.45,1192.35
+ORD001043,2023-02-23,ZetaNotebook,Office Supplies,West,10.0,166.19,1661.9
+ORD001044,2023-12-14,ThetaPen,Office Supplies,South,10.0,316.69,3166.9
+ORD001045,2023-07-14,SigmaDesk,Furniture,North,3.0,444.13,1332.39
+ORD001046,2023-09-05,ThetaPen,Office Supplies,North,7.0,311.77,2182.39
+ORD001047,2023-08-14,AlphaPhone,Electronics,North,5.0,124.15,620.75
+ORD001048,2023-12-02,SigmaDesk,Furniture,North,9.0,21.96,197.64
+ORD001049,2023-10-23,KappaMug,Home,South,6.0,436.35,2618.1
+ORD001050,2023-09-23,IotaLamp,Home,North,7.0,20.42,142.94
+ORD001051,2023-12-05,DeltaCharger,Accessories,West,6.0,438.6,2631.6
+ORD001052,2023-12-06,ZetaNotebook,Office Supplies,South,9.0,269.18,2422.62
+ORD001053,2023-11-10,AlphaPhone,Electronics,North,3.0,470.14,1410.42
+ORD001054,2023-09-16,ThetaPen,Office Supplies,West,3.0,401.4,1204.2
+ORD001055,2023-02-08,ThetaPen,Office Supplies,East,4.0,498.99,1995.96
+ORD001056,2023-06-19,OmegaChair,Furniture,North,9.0,181.85,1636.65
+ORD001057,2023-04-25,IotaLamp,Home,West,7.0,385.92,2701.44
+ORD001058,2023-05-01,BetaLaptop,Electronics,West,8.0,206.95,1655.6
+ORD001059,2023-10-21,ThetaPen,Office Supplies,North,8.0,245.14,1961.12
+ORD001060,2023-08-17,SigmaDesk,Furniture,North,8.0,317.48,2539.84
+ORD001061,2023-12-01,AlphaPhone,Electronics,North,7.0,438.1,3066.7
+ORD001062,2023-07-31,AlphaPhone,Electronics,North,2.0,492.2,984.4
+ORD001063,2023-11-06,KappaMug,Home,East,9.0,386.45,3478.05
+ORD001064,2023-10-15,DeltaCharger,Accessories,West,6.0,214.71,1288.26
+ORD001065,2023-07-06,AlphaPhone,Electronics,South,8.0,216.46,1731.68
+ORD001066,2023-06-19,IotaLamp,Home,West,6.0,371.42,2228.52
+ORD001067,2023-08-20,BetaLaptop,Electronics,North,4.0,127.0,508.0
+ORD001068,2023-01-02,SigmaDesk,Furniture,East,5.0,64.13,320.65
+ORD001069,2023-10-08,IotaLamp,Home,East,2.0,183.76,367.52
+ORD001070,2023-01-24,GammaHeadset,Accessories,West,3.0,150.75,452.25
+ORD001071,2023-07-29,BetaLaptop,Electronics,East,10.0,155.19,1551.9
+ORD001072,2023-04-11,DeltaCharger,Accessories,North,7.0,124.47,871.29
+ORD001073,2023-04-21,ThetaPen,Office Supplies,South,6.0,30.63,183.78
+ORD001074,2023-02-25,ZetaNotebook,Office Supplies,North,10.0,18.76,187.6
+ORD001075,2023-03-05,ThetaPen,Office Supplies,West,10.0,493.98,4939.8
+ORD001076,2023-09-16,GammaHeadset,Accessories,West,1.0,219.61,219.61
+ORD001077,2023-09-29,AlphaPhone,Electronics,West,10.0,198.32,1983.2
+ORD001078,2023-09-05,IotaLamp,Home,South,10.0,343.03,3430.3
+ORD001079,2023-03-30,GammaHeadset,Accessories,North,7.0,116.94,818.58
+ORD001080,2023-12-03,KappaMug,Home,East,9.0,475.48,4279.32
+ORD001081,2023-07-16,ZetaNotebook,Office Supplies,South,5.0,395.31,1976.55
+ORD001082,2023-07-23,SigmaDesk,Furniture,East,8.0,53.81,430.48
+ORD001083,2023-03-10,GammaHeadset,Accessories,West,10.0,214.61,2146.1
+ORD001084,2023-12-25,IotaLamp,Home,East,9.0,440.77,3966.93
+ORD001085,2023-06-10,IotaLamp,Home,South,4.0,472.92,1891.68
+ORD001086,2023-04-18,KappaMug,Home,East,6.0,239.03,1434.18
+ORD001087,2023-12-11,GammaHeadset,Accessories,South,9.0,310.57,2795.13
+ORD001088,2023-10-05,SigmaDesk,Furniture,North,6.0,91.85,551.1
+ORD001089,2023-10-15,ThetaPen,Office Supplies,West,9.0,495.67,4461.03
+ORD001090,2023-05-27,ZetaNotebook,Office Supplies,North,9.0,123.52,1111.68
+ORD001091,2023-02-24,AlphaPhone,Electronics,West,3.0,471.94,1415.82
+ORD001092,2023-01-28,AlphaPhone,Electronics,,5.0,328.33,1641.65
+ORD001093,2023-03-24,OmegaChair,Furniture,East,3.0,307.79,923.37
+ORD001094,2023-02-01,OmegaChair,Furniture,South,9.0,261.22,2350.98
+ORD001095,2023-01-17,SigmaDesk,Furniture,West,2.0,123.03,246.06
+ORD001096,2023-11-12,IotaLamp,Home,South,9.0,96.5,868.5
+ORD001097,2023-07-19,DeltaCharger,Accessories,East,1.0,118.04,118.04
+ORD001098,2023-07-15,ZetaNotebook,Office Supplies,West,6.0,101.35,608.1
+ORD001099,2023-10-10,AlphaPhone,Electronics,North,5.0,392.0,1960.0
+ORD001100,2023-04-14,KappaMug,Home,West,4.0,181.56,726.24
+ORD001101,2023-11-21,SigmaDesk,Furniture,South,4.0,38.34,153.36
+ORD001102,2023-05-31,ThetaPen,Office Supplies,South,2.0,484.86,969.72
+ORD001103,2023-04-06,GammaHeadset,Accessories,North,7.0,443.06,3101.42
+ORD001104,2023-01-21,ZetaNotebook,Office Supplies,East,9.0,464.6,4181.4
+ORD001105,2023-05-16,GammaHeadset,Accessories,South,10.0,497.5,4975.0
+ORD001106,2023-05-11,AlphaPhone,Electronics,East,8.0,95.21,761.68
+ORD001107,2023-12-30,GammaHeadset,Accessories,North,3.0,204.16,612.48
+ORD001108,2023-06-15,KappaMug,Home,North,10.0,381.54,3815.4
+ORD001109,2023-12-05,OmegaChair,Furniture,West,10.0,351.05,3510.5
+ORD001110,2023-10-09,SigmaDesk,Furniture,North,6.0,85.41,512.46
+ORD001111,2023-09-27,DeltaCharger,Accessories,South,9.0,409.76,3687.84
+ORD001112,2023-02-04,IotaLamp,Home,South,7.0,119.98,839.86
+ORD001113,2023-10-06,IotaLamp,Home,West,2.0,119.67,239.34
+ORD001114,2023-06-28,DeltaCharger,Accessories,South,6.0,273.12,1638.72
+ORD001115,2023-06-19,SigmaDesk,Furniture,East,4.0,300.54,1202.16
+ORD001116,2023-11-13,IotaLamp,Home,West,9.0,294.24,2648.16
+ORD001117,2023-11-29,AlphaPhone,Electronics,North,6.0,54.83,328.98
+ORD001118,2023-08-17,DeltaCharger,Accessories,South,1.0,439.96,439.96
+ORD001119,2023-12-16,SigmaDesk,Furniture,West,2.0,140.14,280.28
+ORD001120,2023-07-17,OmegaChair,Furniture,East,1.0,73.46,73.46
+ORD001121,2023-09-22,SigmaDesk,Furniture,West,8.0,445.49,3563.92
+ORD001122,2023-01-23,OmegaChair,Furniture,South,6.0,478.27,2869.62
+ORD001123,2023-09-21,BetaLaptop,Electronics,North,3.0,432.44,1297.32
+ORD001124,2023-10-03,IotaLamp,Home,North,2.0,406.66,813.32
+ORD001125,2023-04-18,DeltaCharger,Accessories,West,2.0,331.07,662.14
+ORD001126,2023-04-16,IotaLamp,Home,West,2.0,279.92,559.84
+ORD001127,2023-12-18,GammaHeadset,Accessories,North,8.0,52.62,420.96
+ORD001128,2023-06-19,AlphaPhone,Electronics,North,2.0,210.14,420.28
+ORD001129,2023-01-28,GammaHeadset,Accessories,East,9.0,192.62,1733.58
+ORD001130,2023-02-06,KappaMug,Home,South,5.0,137.28,686.4
+ORD001131,2023-07-28,ZetaNotebook,Office Supplies,West,7.0,364.48,2551.36
+ORD001132,2023-08-10,SigmaDesk,Furniture,North,7.0,252.98,1770.86
+ORD001133,2023-12-11,BetaLaptop,Electronics,North,10.0,49.71,497.1
+ORD001134,2023-02-02,KappaMug,Home,North,2.0,117.89,235.78
+ORD001135,2023-07-03,IotaLamp,Home,North,5.0,344.8,1724.0
+ORD001136,2023-12-18,OmegaChair,Furniture,North,5.0,47.3,236.5
+ORD001137,2023-08-13,ZetaNotebook,Office Supplies,West,1.0,427.09,427.09
+ORD001138,2023-08-31,GammaHeadset,Accessories,South,3.0,252.62,757.86
+ORD001139,2023-07-20,IotaLamp,Home,East,3.0,245.49,736.47
+ORD001140,2023-06-02,SigmaDesk,Furniture,North,9.0,300.28,2702.52
+ORD001141,2023-10-12,GammaHeadset,Accessories,North,1.0,414.09,414.09
+ORD001142,2023-01-03,KappaMug,Home,West,9.0,180.43,1623.87
+ORD001143,2023-10-08,BetaLaptop,Electronics,East,4.0,342.23,1368.92
+ORD001144,2023-06-26,DeltaCharger,Accessories,West,9.0,287.21,2584.89
+ORD001145,2023-03-14,GammaHeadset,Accessories,South,4.0,140.84,563.36
+ORD001146,2023-11-12,OmegaChair,Furniture,South,2.0,440.53,881.06
+ORD001147,2023-04-03,KappaMug,Home,North,9.0,400.74,3606.66
+ORD001148,2023-08-25,IotaLamp,Home,North,5.0,332.64,1663.2
+ORD001149,2023-12-10,BetaLaptop,Electronics,East,2.0,426.79,853.58
+ORD001150,2023-04-12,KappaMug,Home,West,6.0,434.97,2609.82
+ORD001151,2023-07-02,GammaHeadset,Accessories,South,2.0,357.1,714.2
+ORD001152,2023-05-26,KappaMug,Home,North,4.0,420.14,1680.56
+ORD001153,2023-06-12,ThetaPen,Office Supplies,West,6.0,351.76,2110.56
+ORD001154,2023-11-12,OmegaChair,Furniture,South,10.0,343.27,3432.7
+ORD001155,2023-10-18,SigmaDesk,Furniture,East,7.0,313.12,2191.84
+ORD001156,2023-03-28,AlphaPhone,Electronics,East,4.0,378.83,1515.32
+ORD001157,2023-04-24,ZetaNotebook,Office Supplies,,6.0,87.72,526.32
+ORD001158,2023-03-10,SigmaDesk,Furniture,West,8.0,441.63,3533.04
+ORD001159,2023-08-17,SigmaDesk,Furniture,East,8.0,437.2,3497.6
+ORD001160,2023-10-10,BetaLaptop,Electronics,South,10.0,24.33,243.3
+ORD001161,2023-02-11,OmegaChair,Furniture,South,9.0,414.65,3731.85
+ORD001162,2023-04-11,OmegaChair,Furniture,North,2.0,73.15,146.3
+ORD001163,2023-01-10,IotaLamp,Home,North,10.0,174.21,1742.1
+ORD001164,2023-10-24,ZetaNotebook,Office Supplies,South,1.0,374.32,374.32
+ORD001165,2023-10-10,OmegaChair,Furniture,West,3.0,88.77,266.31
+ORD001166,2023-07-07,ZetaNotebook,Office Supplies,South,10.0,410.8,4108.0
+ORD001167,2023-05-29,GammaHeadset,Accessories,West,9.0,417.75,3759.75
+ORD001168,2023-09-19,BetaLaptop,Electronics,West,,258.66,1551.96
+ORD001169,2023-09-15,AlphaPhone,Electronics,South,10.0,13.13,131.3
+ORD001170,2023-12-17,GammaHeadset,Accessories,South,8.0,150.65,1205.2
+ORD001171,2023-03-23,GammaHeadset,Accessories,South,8.0,312.29,2498.32
+ORD001172,2023-07-03,AlphaPhone,Electronics,South,8.0,490.78,3926.24
+ORD001173,2023-04-29,BetaLaptop,Electronics,East,6.0,319.59,1917.54
+ORD001174,2023-04-30,AlphaPhone,Electronics,South,9.0,137.3,1235.7
+ORD001175,2023-07-04,ZetaNotebook,Office Supplies,West,8.0,320.66,2565.28
+ORD001176,2023-01-24,AlphaPhone,Electronics,East,2.0,274.59,549.18
+ORD001177,2023-12-27,IotaLamp,Home,East,5.0,392.12,1960.6
+ORD001178,2023-10-24,IotaLamp,Home,South,7.0,62.42,436.94
+ORD001179,2023-12-01,ZetaNotebook,Office Supplies,East,10.0,382.9,3829.0
+ORD001180,2023-12-01,BetaLaptop,Electronics,East,7.0,275.22,1926.54
+ORD001181,2023-04-25,IotaLamp,Home,West,6.0,481.87,2891.22
+ORD001182,2023-06-26,ThetaPen,Office Supplies,West,10.0,177.52,1775.2
+ORD001183,2023-01-04,IotaLamp,Home,South,8.0,,2559.84
+ORD001184,2023-03-26,DeltaCharger,Accessories,North,9.0,466.69,4200.21
+ORD001185,2023-11-26,OmegaChair,Furniture,South,3.0,60.23,180.69
+ORD001186,2023-04-06,GammaHeadset,Accessories,East,10.0,469.24,4692.4
+ORD001187,2023-03-02,DeltaCharger,Accessories,West,6.0,347.06,2082.36
+ORD001188,2023-02-28,ThetaPen,Office Supplies,West,8.0,43.24,345.92
+ORD001189,2023-04-18,KappaMug,Home,South,7.0,157.47,1102.29
+ORD001190,2023-01-12,DeltaCharger,Accessories,North,3.0,357.0,1071.0
+ORD001191,2023-10-21,KappaMug,Home,South,3.0,43.0,129.0
+ORD001192,2023-11-19,IotaLamp,Home,North,10.0,295.26,2952.6
+ORD001193,2023-03-17,AlphaPhone,Electronics,South,5.0,179.48,897.4
+ORD001194,2023-04-03,IotaLamp,Home,West,10.0,314.25,3142.5
+ORD001195,2023-10-16,AlphaPhone,Electronics,East,2.0,32.41,64.82
+ORD001196,2023-04-21,ThetaPen,Office Supplies,West,8.0,437.05,3496.4
+ORD001197,2023-03-29,DeltaCharger,Accessories,West,10.0,487.01,4870.1
+ORD001198,2023-03-15,KappaMug,Home,South,10.0,484.75,4847.5
+ORD001199,2023-12-04,IotaLamp,Home,East,3.0,377.33,1131.99
+ORD001200,2023-12-18,SigmaDesk,Furniture,West,10.0,73.74,737.4
+ORD001201,2023-10-30,BetaLaptop,Electronics,South,7.0,381.55,2670.85
+ORD001202,2023-07-17,GammaHeadset,Accessories,North,1.0,22.05,22.05
+ORD001203,2023-04-14,IotaLamp,Home,West,3.0,20.84,62.52
+ORD001204,2023-11-07,BetaLaptop,Electronics,South,8.0,168.57,1348.56
+ORD001205,2023-11-11,KappaMug,Home,North,9.0,249.44,2244.96
+ORD001206,2023-09-15,BetaLaptop,Electronics,North,8.0,387.5,3100.0
+ORD001207,2023-12-04,GammaHeadset,Accessories,North,7.0,344.81,2413.67
+ORD001208,2023-09-25,ZetaNotebook,Office Supplies,East,1.0,228.49,228.49
+ORD001209,2023-12-24,IotaLamp,Home,West,4.0,144.08,576.32
+ORD001210,2023-09-04,ZetaNotebook,Office Supplies,East,10.0,498.59,4985.9
+ORD001211,2023-12-23,KappaMug,Home,North,7.0,218.83,1531.81
+ORD001212,2023-03-10,OmegaChair,Furniture,West,4.0,231.18,924.72
+ORD001213,2023-02-12,OmegaChair,Furniture,West,5.0,90.18,450.9
+ORD001214,2023-04-07,AlphaPhone,Electronics,North,10.0,399.46,3994.6
+ORD001215,2023-09-25,BetaLaptop,Electronics,North,7.0,349.9,2449.3
+ORD001216,2023-12-02,DeltaCharger,Accessories,East,7.0,118.18,827.26
+ORD001217,2023-07-05,BetaLaptop,Electronics,South,7.0,50.37,352.59
+ORD001218,2023-11-30,KappaMug,Home,East,5.0,343.44,1717.2
+ORD001219,2023-10-02,ZetaNotebook,Office Supplies,East,10.0,330.71,3307.1
+ORD001220,2023-05-22,ZetaNotebook,Office Supplies,South,7.0,143.9,1007.3
+ORD001221,2023-10-10,IotaLamp,Home,West,3.0,475.92,1427.76
+ORD001222,2023-07-09,IotaLamp,Home,West,5.0,84.02,420.1
+ORD001223,2023-06-07,KappaMug,Home,East,7.0,221.84,1552.88
+ORD001224,2023-03-12,BetaLaptop,Electronics,South,8.0,472.37,3778.96
+ORD001225,2023-12-25,GammaHeadset,Accessories,North,4.0,215.67,862.68
+ORD001226,2023-09-18,ZetaNotebook,Office Supplies,East,9.0,322.88,2905.92
+ORD001227,2023-11-11,AlphaPhone,Electronics,South,7.0,204.82,1433.74
+ORD001228,2023-11-22,AlphaPhone,Electronics,North,3.0,144.37,433.11
+ORD001229,2023-08-30,KappaMug,Home,West,2.0,492.15,984.3
+ORD001230,2023-02-02,OmegaChair,Furniture,South,6.0,210.57,1263.42
+ORD001231,2023-02-10,KappaMug,Home,North,7.0,448.11,3136.77
+ORD001232,2023-07-25,KappaMug,Home,East,10.0,122.68,1226.8
+ORD001233,2023-01-30,GammaHeadset,Accessories,West,8.0,114.42,915.36
+ORD001234,2023-01-06,DeltaCharger,Accessories,East,4.0,25.26,101.04
+ORD001235,2023-01-18,KappaMug,Home,South,10.0,329.32,3293.2
+ORD001236,2023-03-28,AlphaPhone,Electronics,East,4.0,190.58,762.32
+ORD001237,2023-12-02,AlphaPhone,Electronics,South,2.0,433.54,867.08
+ORD001238,2023-05-22,ZetaNotebook,Office Supplies,East,7.0,241.87,1693.09
+ORD001239,2023-07-27,KappaMug,Home,South,9.0,484.41,4359.69
+ORD001240,2023-01-08,BetaLaptop,Electronics,North,9.0,100.91,908.19
+ORD001241,2023-05-26,IotaLamp,Home,East,6.0,435.63,2613.78
+ORD001242,2023-05-22,DeltaCharger,Accessories,South,8.0,390.53,3124.24
+ORD001243,2023-07-26,KappaMug,Home,North,5.0,387.75,1938.75
+ORD001244,2023-03-31,ZetaNotebook,Office Supplies,North,9.0,423.94,3815.46
+ORD001245,2023-02-07,IotaLamp,Home,East,6.0,382.9,2297.4
+ORD001246,2023-03-01,IotaLamp,Home,East,9.0,316.85,2851.65
+ORD001247,2023-10-22,OmegaChair,Furniture,West,7.0,74.31,520.17
+ORD001248,2023-10-16,ThetaPen,Office Supplies,South,6.0,25.94,155.64
+ORD001249,2023-08-23,ThetaPen,Office Supplies,North,8.0,461.22,3689.76
+ORD001250,2023-03-01,OmegaChair,Furniture,North,7.0,312.16,2185.12
+ORD001251,2023-11-21,DeltaCharger,Accessories,South,6.0,400.3,2401.8
+ORD001252,2023-07-31,SigmaDesk,Furniture,North,5.0,245.95,1229.75
+ORD001253,2023-05-08,OmegaChair,Furniture,North,7.0,67.48,472.36
+ORD001254,2023-12-11,SigmaDesk,Furniture,North,9.0,71.34,642.06
+ORD001255,2023-04-02,ThetaPen,Office Supplies,East,6.0,345.93,2075.58
+ORD001256,2023-04-22,KappaMug,Home,East,3.0,220.85,662.55
+ORD001257,2023-12-16,DeltaCharger,Accessories,West,4.0,108.26,433.04
+ORD001258,2023-05-01,DeltaCharger,Accessories,East,4.0,250.88,1003.52
+ORD001259,2023-04-28,DeltaCharger,Accessories,South,10.0,41.46,414.6
+ORD001260,2023-07-02,GammaHeadset,Accessories,North,2.0,295.17,590.34
+ORD001261,2023-02-10,ThetaPen,Office Supplies,North,9.0,141.81,1276.29
+ORD001262,2023-01-22,ThetaPen,Office Supplies,East,10.0,400.8,4008.0
+ORD001263,2023-06-11,ThetaPen,Office Supplies,East,8.0,162.08,1296.64
+ORD001264,2023-04-04,IotaLamp,Home,East,7.0,233.06,1631.42
+ORD001265,2023-04-24,KappaMug,Home,South,1.0,15.69,15.69
+ORD001266,2023-09-27,ZetaNotebook,Office Supplies,West,9.0,45.5,409.5
+ORD001267,2023-01-17,IotaLamp,Home,East,7.0,202.32,1416.24
+ORD001268,2023-12-18,GammaHeadset,Accessories,West,2.0,245.17,490.34
+ORD001269,2023-12-24,IotaLamp,Home,West,6.0,304.01,1824.06
+ORD001270,2023-12-19,AlphaPhone,Electronics,North,4.0,152.91,611.64
+ORD001271,2023-07-14,KappaMug,Home,North,6.0,350.54,2103.24
+ORD001272,2023-07-05,KappaMug,Home,East,3.0,431.46,1294.38
+ORD001273,2023-10-08,OmegaChair,Furniture,South,5.0,392.13,1960.65
+ORD001274,2023-08-30,KappaMug,Home,East,6.0,29.41,176.46
+ORD001275,2023-04-05,ThetaPen,Office Supplies,West,4.0,245.45,981.8
+ORD001276,2023-08-03,SigmaDesk,Furniture,East,7.0,61.42,429.94
+ORD001277,2023-05-24,ThetaPen,Office Supplies,South,10.0,128.6,1286.0
+ORD001278,2023-03-09,KappaMug,Home,South,2.0,493.46,986.92
+ORD001279,2023-05-19,DeltaCharger,Accessories,West,7.0,79.82,558.74
+ORD001280,2023-04-11,GammaHeadset,Accessories,South,8.0,254.46,2035.68
+ORD001281,2023-01-05,GammaHeadset,Accessories,West,8.0,312.9,2503.2
+ORD001282,2023-03-10,IotaLamp,Home,East,8.0,354.21,2833.68
+ORD001283,2023-06-03,OmegaChair,Furniture,North,7.0,284.23,1989.61
+ORD001284,2023-02-20,GammaHeadset,Accessories,North,4.0,14.79,59.16
+ORD001285,2023-05-11,ThetaPen,Office Supplies,North,8.0,169.97,1359.76
+ORD001286,2023-06-21,OmegaChair,Furniture,East,6.0,263.68,1582.08
+ORD001287,2023-10-14,IotaLamp,Home,East,6.0,53.05,318.3
+ORD001288,2023-01-11,ZetaNotebook,Office Supplies,North,6.0,181.81,1090.86
+ORD001289,2023-12-14,KappaMug,Home,South,10.0,26.27,262.7
+ORD001290,2023-10-22,IotaLamp,Home,South,5.0,48.5,242.5
+ORD001291,2023-07-01,SigmaDesk,Furniture,West,8.0,204.49,1635.92
+ORD001292,2023-02-10,ZetaNotebook,Office Supplies,East,8.0,75.03,600.24
+ORD001293,2023-11-20,GammaHeadset,Accessories,South,6.0,288.1,1728.6
+ORD001294,2023-08-04,KappaMug,Home,West,2.0,347.84,695.68
+ORD001295,2023-02-10,GammaHeadset,Accessories,East,4.0,402.29,1609.16
+ORD001296,2023-06-10,SigmaDesk,Furniture,East,5.0,108.07,540.35
+ORD001297,2023-11-06,ZetaNotebook,Office Supplies,East,8.0,92.07,736.56
+ORD001298,2023-07-05,KappaMug,Home,West,7.0,61.24,428.68
+ORD001299,2023-03-27,GammaHeadset,Accessories,North,3.0,321.85,965.55
+ORD001300,2023-05-01,OmegaChair,Furniture,North,4.0,356.17,1424.68
+ORD001301,2023-03-27,ZetaNotebook,Office Supplies,North,2.0,25.48,50.96
+ORD001302,2023-02-02,ThetaPen,Office Supplies,North,1.0,468.74,468.74
+ORD001303,2023-07-23,IotaLamp,Home,North,2.0,35.47,70.94
+ORD001304,2023-05-15,KappaMug,Home,South,2.0,275.24,550.48
+ORD001305,2023-12-02,ZetaNotebook,Office Supplies,East,4.0,357.44,1429.76
+ORD001306,2023-05-07,OmegaChair,Furniture,West,3.0,436.77,1310.31
+ORD001307,2023-03-09,IotaLamp,Home,South,1.0,359.9,359.9
+ORD001308,2023-01-18,SigmaDesk,Furniture,East,8.0,402.85,3222.8
+ORD001309,2023-08-28,IotaLamp,Home,East,9.0,176.33,1586.97
+ORD001310,2023-08-16,GammaHeadset,Accessories,South,10.0,409.26,4092.6
+ORD001311,2023-11-02,ThetaPen,Office Supplies,West,9.0,49.26,443.34
+ORD001312,2023-11-24,IotaLamp,Home,East,6.0,448.46,2690.76
+ORD001313,2023-09-04,IotaLamp,Home,South,2.0,278.32,556.64
+ORD001314,2023-08-15,OmegaChair,Furniture,East,7.0,410.48,2873.36
+ORD001315,2023-05-14,GammaHeadset,Accessories,East,1.0,231.64,231.64
+ORD001316,2023-01-01,IotaLamp,Home,South,6.0,325.35,1952.1
+ORD001317,2023-05-27,ThetaPen,Office Supplies,North,8.0,267.94,2143.52
+ORD001318,2023-09-02,OmegaChair,Furniture,North,7.0,368.48,2579.36
+ORD001319,2023-05-30,KappaMug,Home,South,1.0,50.0,50.0
+ORD001320,2023-10-08,SigmaDesk,Furniture,South,7.0,39.57,276.99
+ORD001321,2023-10-15,ZetaNotebook,Office Supplies,West,4.0,131.08,524.32
+ORD001322,2023-03-25,ZetaNotebook,Office Supplies,West,4.0,88.18,352.72
+ORD001323,2023-05-15,BetaLaptop,Electronics,West,4.0,437.17,1748.68
+ORD001324,2023-09-22,KappaMug,Home,East,5.0,117.41,587.05
+ORD001325,2023-11-29,IotaLamp,Home,East,7.0,488.17,3417.19
+ORD001326,2023-04-07,BetaLaptop,Electronics,South,3.0,175.08,525.24
+ORD001327,2023-05-29,BetaLaptop,Electronics,West,10.0,99.24,992.4
+ORD001328,2023-08-20,OmegaChair,Furniture,West,4.0,396.95,1587.8
+ORD001329,2023-06-14,AlphaPhone,Electronics,South,1.0,332.77,332.77
+ORD001330,2023-10-01,AlphaPhone,Electronics,South,2.0,254.12,508.24
+ORD001331,2023-05-25,OmegaChair,Furniture,South,8.0,282.13,2257.04
+ORD001332,2023-01-05,DeltaCharger,Accessories,North,3.0,362.41,1087.23
+ORD001333,2023-01-08,ThetaPen,Office Supplies,South,6.0,121.94,731.64
+ORD001334,2023-08-04,OmegaChair,Furniture,West,,498.2,2989.2
+ORD001335,2023-08-26,AlphaPhone,Electronics,East,2.0,487.65,975.3
+ORD001336,2023-03-16,AlphaPhone,Electronics,East,7.0,328.66,2300.62
+ORD001337,2023-02-06,IotaLamp,Home,West,3.0,107.78,323.34
+ORD001338,2023-04-09,OmegaChair,Furniture,West,1.0,343.31,343.31
+ORD001339,2023-03-04,DeltaCharger,Accessories,West,8.0,45.38,363.04
+ORD001340,2023-05-07,AlphaPhone,Electronics,South,8.0,25.02,200.16
+ORD001341,2023-02-18,IotaLamp,Home,South,8.0,136.26,1090.08
+ORD001342,2023-07-19,OmegaChair,Furniture,East,3.0,236.69,710.07
+ORD001343,2023-11-19,AlphaPhone,Electronics,North,5.0,435.45,2177.25
+ORD001344,2023-09-04,OmegaChair,Furniture,South,6.0,366.31,2197.86
+ORD001345,2023-01-27,DeltaCharger,Accessories,North,4.0,373.93,1495.72
+ORD001346,2023-11-21,ZetaNotebook,Office Supplies,East,1.0,218.49,218.49
+ORD001347,2023-03-27,OmegaChair,Furniture,North,7.0,179.51,1256.57
+ORD001348,2023-05-05,AlphaPhone,Electronics,North,10.0,191.81,1918.1
+ORD001349,2023-12-20,ThetaPen,Office Supplies,South,6.0,493.95,2963.7
+ORD001350,2023-02-15,DeltaCharger,Accessories,South,8.0,29.65,237.2
+ORD001351,2023-02-16,KappaMug,Home,East,1.0,434.85,434.85
+ORD001352,2023-01-31,SigmaDesk,Furniture,South,9.0,293.55,2641.95
+ORD001353,2023-02-24,GammaHeadset,Accessories,West,4.0,224.92,899.68
+ORD001354,2023-06-12,IotaLamp,Home,East,8.0,365.38,2923.04
+ORD001355,2023-04-09,AlphaPhone,Electronics,West,6.0,248.47,1490.82
+ORD001356,2023-03-10,OmegaChair,Furniture,North,8.0,437.98,3503.84
+ORD001357,2023-12-28,ThetaPen,Office Supplies,East,9.0,451.34,4062.06
+ORD001358,2023-12-23,ThetaPen,Office Supplies,South,10.0,216.64,2166.4
+ORD001359,2023-04-06,IotaLamp,Home,East,6.0,145.65,873.9
+ORD001360,2023-08-28,OmegaChair,Furniture,South,2.0,300.25,600.5
+ORD001361,2023-09-29,GammaHeadset,Accessories,West,5.0,457.06,2285.3
+ORD001362,2023-05-15,IotaLamp,Home,East,8.0,113.22,905.76
+ORD001363,2023-01-01,IotaLamp,Home,West,3.0,315.25,945.75
+ORD001364,2023-01-10,KappaMug,Home,East,10.0,319.46,3194.6
+ORD001365,2023-05-03,SigmaDesk,Furniture,North,9.0,369.23,3323.07
+ORD001366,2023-07-18,DeltaCharger,Accessories,West,9.0,74.47,670.23
+ORD001367,2023-03-20,KappaMug,Home,East,6.0,360.75,2164.5
+ORD001368,2023-07-29,SigmaDesk,Furniture,North,2.0,455.43,910.86
+ORD001369,2023-09-25,BetaLaptop,Electronics,North,3.0,98.04,294.12
+ORD001370,2023-04-02,AlphaPhone,Electronics,South,2.0,126.4,252.8
+ORD001371,2023-09-06,DeltaCharger,Accessories,North,1.0,485.98,485.98
+ORD001372,2023-10-20,ZetaNotebook,Office Supplies,West,9.0,98.68,888.12
+ORD001373,2023-11-16,KappaMug,Home,East,1.0,428.65,428.65
+ORD001374,2023-07-07,DeltaCharger,Accessories,North,1.0,251.22,251.22
+ORD001375,2023-04-17,ThetaPen,Office Supplies,North,8.0,131.14,1049.12
+ORD001376,2023-11-24,AlphaPhone,Electronics,East,9.0,436.67,3930.03
+ORD001377,2023-08-01,SigmaDesk,Furniture,North,10.0,228.2,2282.0
+ORD001378,2023-05-17,IotaLamp,Home,North,2.0,262.26,524.52
+ORD001379,2023-06-05,BetaLaptop,Electronics,South,9.0,186.02,1674.18
+ORD001380,2023-02-19,BetaLaptop,Electronics,South,9.0,300.55,2704.95
+ORD001381,2023-07-17,DeltaCharger,Accessories,South,9.0,90.13,811.17
+ORD001382,2023-12-03,DeltaCharger,Accessories,South,9.0,201.63,1814.67
+ORD001383,2023-10-13,ZetaNotebook,Office Supplies,North,10.0,485.01,4850.1
+ORD001384,2023-07-03,ThetaPen,Office Supplies,West,2.0,136.49,272.98
+ORD001385,2023-03-27,GammaHeadset,Accessories,West,9.0,331.8,2986.2
+ORD001386,2023-06-22,GammaHeadset,Accessories,West,6.0,169.34,1016.04
+ORD001387,2023-06-11,IotaLamp,Home,East,6.0,389.0,2334.0
+ORD001388,2023-07-31,ZetaNotebook,Office Supplies,East,10.0,74.13,741.3
+ORD001389,2023-05-04,KappaMug,Home,South,7.0,485.21,3396.47
+ORD001390,2023-10-09,OmegaChair,Furniture,East,8.0,232.36,1858.88
+ORD001391,2023-08-18,ZetaNotebook,Office Supplies,North,1.0,125.66,125.66
+ORD001392,2023-05-26,KappaMug,Home,North,9.0,46.01,414.09
+ORD001393,2023-03-11,OmegaChair,Furniture,North,5.0,93.18,465.9
+ORD001394,2023-04-24,DeltaCharger,Accessories,East,1.0,264.69,264.69
+ORD001395,2023-12-20,OmegaChair,Furniture,South,2.0,175.13,350.26
+ORD001396,2023-01-20,ThetaPen,Office Supplies,East,3.0,416.15,1248.45
+ORD001397,2023-03-12,OmegaChair,Furniture,East,10.0,221.13,2211.3
+ORD001398,2023-05-08,DeltaCharger,Accessories,East,5.0,131.87,659.35
+ORD001399,2023-02-17,KappaMug,Home,West,10.0,312.4,3124.0
+ORD001400,2023-04-22,BetaLaptop,Electronics,East,8.0,356.32,2850.56
+ORD001401,2023-03-30,ThetaPen,Office Supplies,North,10.0,91.85,918.5
+ORD001402,2023-11-25,OmegaChair,Furniture,North,10.0,92.13,921.3
+ORD001403,2023-07-15,BetaLaptop,Electronics,North,6.0,27.97,167.82
+ORD001404,2023-06-28,ZetaNotebook,Office Supplies,West,2.0,370.84,741.68
+ORD001405,2023-04-27,KappaMug,Home,North,7.0,335.26,2346.82
+ORD001406,2023-01-28,OmegaChair,Furniture,North,6.0,242.57,1455.42
+ORD001407,2023-10-04,KappaMug,Home,South,6.0,423.64,2541.84
+ORD001408,2023-09-15,DeltaCharger,Accessories,South,1.0,404.78,404.78
+ORD001409,2023-12-11,ZetaNotebook,Office Supplies,West,10.0,296.82,2968.2
+ORD001410,2023-10-22,IotaLamp,Home,North,4.0,435.45,1741.8
+ORD001411,2023-08-10,OmegaChair,Furniture,West,3.0,110.86,332.58
+ORD001412,2023-03-09,SigmaDesk,Furniture,North,8.0,64.84,518.72
+ORD001413,2023-10-20,AlphaPhone,Electronics,West,5.0,142.18,710.9
+ORD001414,2023-02-13,ZetaNotebook,Office Supplies,West,3.0,37.97,113.91
+ORD001415,2023-03-11,ThetaPen,Office Supplies,South,8.0,270.27,2162.16
+ORD001416,2023-07-22,KappaMug,Home,South,9.0,468.94,4220.46
+ORD001417,2023-11-12,IotaLamp,Home,South,4.0,29.28,117.12
+ORD001418,2023-02-06,OmegaChair,Furniture,West,6.0,69.83,418.98
+ORD001419,2023-12-17,KappaMug,Home,North,2.0,231.58,463.16
+ORD001420,2023-12-10,ZetaNotebook,Office Supplies,West,6.0,467.6,2805.6
+ORD001421,2023-06-28,DeltaCharger,Accessories,East,6.0,164.92,989.52
+ORD001422,2023-11-01,AlphaPhone,Electronics,East,3.0,258.55,775.65
+ORD001423,2023-06-29,KappaMug,Home,West,10.0,30.37,303.7
+ORD001424,2023-03-16,ThetaPen,Office Supplies,North,4.0,82.69,330.76
+ORD001425,2023-04-13,SigmaDesk,Furniture,South,2.0,493.45,986.9
+ORD001426,2023-02-27,AlphaPhone,Electronics,South,10.0,482.91,4829.1
+ORD001427,2023-03-17,OmegaChair,Furniture,North,6.0,12.42,74.52
+ORD001428,2023-12-22,BetaLaptop,Electronics,East,8.0,476.39,3811.12
+ORD001429,2023-08-30,AlphaPhone,Electronics,East,4.0,323.17,1292.68
+ORD001430,2023-10-03,DeltaCharger,Accessories,South,9.0,435.28,3917.52
+ORD001431,2023-09-25,OmegaChair,Furniture,West,10.0,232.82,2328.2
+ORD001432,2023-03-14,AlphaPhone,Electronics,West,10.0,262.64,2626.4
+ORD001433,2023-12-06,IotaLamp,Home,North,5.0,249.53,1247.65
+ORD001434,2023-03-29,AlphaPhone,Electronics,East,4.0,336.76,1347.04
+ORD001435,2023-12-23,KappaMug,Home,East,1.0,78.43,78.43
+ORD001436,2023-08-27,AlphaPhone,Electronics,North,7.0,24.69,172.83
+ORD001437,2023-12-05,OmegaChair,Furniture,East,2.0,160.89,321.78
+ORD001438,2023-01-10,OmegaChair,Furniture,West,4.0,355.29,1421.16
+ORD001439,2023-07-14,IotaLamp,Home,North,6.0,108.91,653.46
+ORD001440,2023-09-06,KappaMug,Home,North,3.0,339.98,1019.94
+ORD001441,2023-04-12,IotaLamp,Home,West,9.0,485.26,4367.34
+ORD001442,2023-12-31,AlphaPhone,Electronics,North,4.0,56.01,224.04
+ORD001443,2023-09-29,OmegaChair,Furniture,East,8.0,339.58,2716.64
+ORD001444,2023-07-21,GammaHeadset,Accessories,North,6.0,227.44,1364.64
+ORD001445,2023-12-17,SigmaDesk,Furniture,East,5.0,435.39,2176.95
+ORD001446,2023-05-01,IotaLamp,Home,East,1.0,96.8,96.8
+ORD001447,2023-11-17,OmegaChair,Furniture,West,1.0,349.39,349.39
+ORD001448,2023-10-12,OmegaChair,Furniture,South,3.0,420.68,1262.04
+ORD001449,2023-06-24,ZetaNotebook,Office Supplies,South,2.0,472.86,945.72
+ORD001450,2023-07-15,IotaLamp,Home,South,7.0,344.79,2413.53
+ORD001451,2023-05-04,KappaMug,Home,South,7.0,253.62,1775.34
+ORD001452,2023-06-09,KappaMug,Home,East,8.0,312.75,2502.0
+ORD001453,2023-10-05,GammaHeadset,Accessories,South,3.0,435.76,1307.28
+ORD001454,2023-10-25,IotaLamp,Home,South,3.0,289.6,868.8
+ORD001455,2023-06-08,IotaLamp,Home,South,7.0,24.89,174.23
+ORD001456,2023-03-16,KappaMug,Home,South,6.0,466.16,2796.96
+ORD001457,2023-02-04,IotaLamp,Home,North,3.0,347.87,1043.61
+ORD001458,2023-06-12,GammaHeadset,Accessories,North,6.0,341.49,2048.94
+ORD001459,2023-07-31,ZetaNotebook,Office Supplies,East,8.0,115.68,925.44
+ORD001460,2023-11-23,OmegaChair,Furniture,South,4.0,332.85,1331.4
+ORD001461,2023-02-24,GammaHeadset,Accessories,South,1.0,202.99,202.99
+ORD001462,2023-11-10,KappaMug,Home,East,10.0,329.1,3291.0
+ORD001463,2023-10-18,KappaMug,Home,South,10.0,62.23,622.3
+ORD001464,2023-04-29,DeltaCharger,Accessories,North,6.0,332.34,1994.04
+ORD001465,2023-02-10,ThetaPen,Office Supplies,South,9.0,499.71,4497.39
+ORD001466,2023-11-06,ThetaPen,Office Supplies,East,3.0,33.62,100.86
+ORD001467,2023-07-18,ThetaPen,Office Supplies,West,3.0,488.82,1466.46
+ORD001468,2023-03-25,DeltaCharger,Accessories,South,1.0,209.38,209.38
+ORD001469,2023-07-29,AlphaPhone,Electronics,East,7.0,436.67,3056.69
+ORD001470,2023-04-24,DeltaCharger,Accessories,South,2.0,393.37,786.74
+ORD001471,2023-04-01,ThetaPen,Office Supplies,West,6.0,287.84,1727.04
+ORD001472,2023-08-23,DeltaCharger,Accessories,West,7.0,371.84,2602.88
+ORD001473,2023-01-22,KappaMug,Home,West,6.0,440.47,2642.82
+ORD001474,2023-07-21,KappaMug,Home,North,9.0,208.03,1872.27
+ORD001475,2023-02-25,ThetaPen,Office Supplies,West,1.0,170.25,170.25
+ORD001476,2023-05-06,IotaLamp,Home,West,1.0,337.12,337.12
+ORD001477,2023-10-13,ZetaNotebook,Office Supplies,North,4.0,405.84,1623.36
+ORD001478,2023-05-30,ThetaPen,Office Supplies,West,5.0,383.52,1917.6
+ORD001479,2023-05-27,ThetaPen,Office Supplies,South,7.0,400.93,2806.51
+ORD001480,2023-05-31,KappaMug,Home,North,9.0,223.44,2010.96
+ORD001481,2023-03-14,ThetaPen,Office Supplies,West,2.0,410.74,821.48
+ORD001482,2023-09-14,BetaLaptop,Electronics,South,10.0,68.9,689.0
+ORD001483,2023-12-23,IotaLamp,Home,South,7.0,276.8,1937.6
+ORD001484,2023-07-31,SigmaDesk,Furniture,West,1.0,12.82,12.82
+ORD001485,2023-04-02,ThetaPen,Office Supplies,South,8.0,169.05,1352.4
+ORD001486,2023-02-16,OmegaChair,Furniture,East,3.0,189.57,568.71
+ORD001487,2023-03-05,BetaLaptop,Electronics,North,8.0,204.12,1632.96
+ORD001488,2023-11-21,SigmaDesk,Furniture,North,9.0,350.78,3157.02
+ORD001489,2023-12-29,ZetaNotebook,Office Supplies,South,7.0,200.39,1402.73
+ORD001490,2023-10-09,ZetaNotebook,Office Supplies,North,3.0,229.86,689.58
+ORD001491,2023-06-21,KappaMug,Home,South,3.0,126.4,379.2
+ORD001492,2023-03-16,GammaHeadset,Accessories,North,7.0,192.89,1350.23
+ORD001493,2023-06-07,OmegaChair,Furniture,West,5.0,121.36,606.8
+ORD001494,2023-11-17,GammaHeadset,Accessories,North,3.0,45.87,137.61
+ORD001495,2023-04-14,AlphaPhone,Electronics,East,1.0,305.69,305.69
+ORD001496,2023-08-23,ThetaPen,Office Supplies,West,9.0,337.42,3036.78
+ORD001497,2023-01-03,KappaMug,Home,West,4.0,313.55,1254.2
+ORD001498,2023-04-22,KappaMug,Home,West,8.0,237.11,1896.88
+ORD001499,2023-07-29,ThetaPen,Office Supplies,North,10.0,196.1,1961.0
+ORD001500,2023-11-04,AlphaPhone,Electronics,South,9.0,433.03,3897.27
+ORD001482,2023-09-14,BetaLaptop,Electronics,South,10.0,68.9,689.0
+ORD001116,2023-11-13,IotaLamp,Home,West,9.0,294.24,2648.16
+ORD001067,2023-08-20,BetaLaptop,Electronics,North,4.0,127.0,508.0
